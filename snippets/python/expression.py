@@ -1,4 +1,4 @@
-import re
+import re # Use for regex
 
 # String concat
 'a' + 'b' # ab
@@ -13,6 +13,6 @@ import re
 
 'A'.lower()
 'a'.upper()
-'a'.decode()
 
-re.match('A', 'ABC')
+m = re.match('A', 'ABC')
+print(m.group(0))
