@@ -17,3 +17,14 @@ for i in range(0, 10):
 
 for i in listData:
   print(i)
+
+class Animal ():
+  def __init__(self, name):
+    self.name = name
+  def __str__(self):
+    return '{0} is {1}'.format(self.name, 'Animal')
+  
+class Chicken(Animal):
+  pass
+
+print(Chicken('hi'))
