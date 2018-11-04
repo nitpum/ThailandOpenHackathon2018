@@ -1,36 +1,43 @@
 import sys
+import datetime
 import operator
 
-class customer:
-  def __init__(self, line):
-    self.customer_id, self.redemp_dt, self.redemp_tm, self.cat_desc, self.sub_cat_desc, self.prntr_desc, self.redeem_type, self.campaign, self.channel = line.split('|')    
-  def __str__(self):
-    return self.customer_id
+# Class
+class Customer:
+  def __init__(self, str):
+    sep = str.split('|')
+    self.id = sep[0]
+    self.timestamp = datetime.datetime.strptime(sep[1] + "|" + sep[2], '%d%b%Y|%H:%M:%S')
+    self.cat = sep[3]
+    self.subcat = sep[4]
+    self.partner = sep[5]
+    self.type = sep[6]
+    self.campaign = sep[7]
+    self.channel = sep[8]
 
+# Variables
 customers = []
-
 lines = sys.stdin.read().split('\n')
 lineCount = 0
 data = 0
+companys = {}
+i = 0
 
+# Read inputs
 for line in lines:
   if (len(line.split('|')) >= 9 and line != "" and lineCount > 0):
-    customers.append(customer(line))
+    customers.append(Customer(line))
   lineCount += 1
 
-company = {}
-
+# Counting company
 for c in customers:
-  if c.prntr_desc in company:
-    pass
-  else:
-    company[c.prntr_desc] = 0
-  company[c.prntr_desc] += 1
+  if c.partner not in companys:
+    companys[c.partner] = 0
+  companys[c.partner] += 1
 
-i = 0
-# ASc
-# sorted_company = sorted(company.items(), key=lambda kv: kv[1])
-# DESC
-sorted_company = sorted(company.items(), key=lambda kv: kv[1], reverse =True)
+# Sorted by 
+companys = sorted(companys.items(), key=lambda kv: kv[1])
+
+# Print results
 for c in range(0, 5):
-  print (sorted_company[len(sorted_company) - 1 - c][0] + " " + str(sorted_company[len(sorted_company) - 1 - c][1]))
+  print (companys[len(companys) - 1 - c][0] + " " + str(companys[len(companys) - 1 - c][1]))

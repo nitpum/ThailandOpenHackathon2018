@@ -1,10 +1,8 @@
 import sys
 import datetime
 
+# Class
 class Customer:
-  month = {
-    ""
-  }
   def __init__(self, str):
     sep = str.split('|')
     self.id = sep[0]
@@ -16,24 +14,28 @@ class Customer:
     self.campaign = sep[7]
     self.channel = sep[8]
 
+# Variables
 customers = []
 count={}
 line = sys.stdin.readline()
 i = 0
+
 """ read data """
 while True:
   """ read line """
   line = sys.stdin.readline()
   if line != "":
     customers.append(Customer(line))
+    # Counting company
     if customers[i].partner + " " +customers[i].channel in count :
-        count[customers[i].partner + " " +customers[i].channel]+=1
+        count[customers[i].partner + " " + customers[i].channel]+=1
     else :
-        count[customers[i].partner + " " +customers[i].channel]=1
+        count[customers[i].partner + " " + customers[i].channel]=1
     i+=1
   else:
     break
 
+# Print results
 for key in sorted(count.values):
     print(key)
 

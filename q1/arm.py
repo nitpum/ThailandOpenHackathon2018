@@ -2,10 +2,8 @@ import sys
 import datetime
 import operator
 
+# Class
 class Customer:
-  month = {
-    ""
-  }
   def __init__(self, str):
     sep = str.split('|')
     self.id = sep[0]
@@ -17,7 +15,9 @@ class Customer:
     self.campaign = sep[7]
     self.channel = sep[8]
 
+# Variables
 customers = []
+partner = {}
 
 """ read data """
 line = sys.stdin.readline()
@@ -29,16 +29,17 @@ while True:
     customers.append(Customer(line))
   else:
     break
-
-partner = {}
-
+    
+# Counting company
 for customer in customers:
   if customer.partner in partner:
     partner[customer.partner] += 1
   else:
     partner[customer.partner] = 1
 
+# Sorted by rank
 rank = sorted(partner.items(), key=operator.itemgetter(1), reverse=True)
 
+# Print results
 for i in range(0,5):
   print(rank[i][0] + ' ' + str(rank[i][1]))
