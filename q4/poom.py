@@ -8,6 +8,8 @@ companys = {}
 campaigns = {}
 campaignsUser = {}
 average = {}
+n = 0
+k = 0
 
 # Class
 class Customer:
@@ -27,6 +29,9 @@ class Customer:
     return self.time < other.time
 
 # Functions and Filters
+def amazonFilter(customer):
+  return (customer.partner == "Cafe Amazon")
+
 # def addToDict(dict, key, value):
 #   if key not in dict:
 #     dict[key] = value
@@ -58,24 +63,17 @@ for line in lines:
     customers.append(customer)
   lineCount += 1
 
-n = 0
-k = 0
-
-
-def amazonFilter(customer):
-  return (customer.partner == "Cafe Amazon")
-
+# Sort date then sort id
 customers.sort()
 customers.sort(key=operator.attrgetter('id'))
-
+# Counting
 for i in range(len(customers) - 1):
   if customers[i].id == customers[i + 1].id:
-    print(customers[i])
     if customers[i].partner == "Cafe Amazon":
       n += 1
     if customers[i].partner == "Cafe Amazon" and customers[i + 1].cat == "Dining":
       k += 1
 
-print(str(k )+ " " + str(n))
+# Print results
 p =  k / n
-print(p)
+print("%.2f" % p)

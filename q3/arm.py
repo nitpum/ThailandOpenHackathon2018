@@ -70,6 +70,7 @@ for campaign in campaignStats:
 
 printArr.sort()
 
+# Print result
 for p in printArr:
   print(p)
   
