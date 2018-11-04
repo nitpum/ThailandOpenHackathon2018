@@ -11,12 +11,12 @@ class Customer:
     sep = str.strip().split('|')
     self.id = sep[0]
     self.time = datetime.datetime.strptime(sep[1] + "|" + sep[2], '%d%b%Y|%H:%M:%S')
-    self.cat = sep[3]
-    self.subcat = sep[4]
-    self.partner = sep[5]
-    self.type = sep[6]
-    self.campaign = sep[7]
-    self.channel = sep[8]
+    self.cat = sep[3].strip()
+    self.subcat = sep[4].strip()
+    self.partner = sep[5].strip()
+    self.type = sep[6].strip()
+    self.campaign = sep[7].strip()
+    self.channel = sep[8].strip()
   def __str__(self):
     return "{0}|{1}|{2}|{3}|{4}|{5}|{6}|{7}".format(self.id, self.time, self.cat, self.subcat, self.partner, self.type, self.campaign, self.channel)
 
@@ -66,7 +66,7 @@ printArr = []
 
 for campaign in campaignStats:
   avg = campaignStats[campaign] / len(campaigns[campaign])
-  printArr.append(campaign + " " + str(round(avg,2)))
+  printArr.append(campaign + " " + "{0:.2f}".format(avg))
 
 printArr.sort()
 
