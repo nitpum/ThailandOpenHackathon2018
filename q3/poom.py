@@ -66,10 +66,11 @@ for line in lines:
       
 
   lineCount += 1
-
-# print(campaigns)
-campaigns = sorted(campaigns.keys)
-for campaignName in campaigns:
-  campaign = campaigns[campaignName]
-  avg = campaign[0] / len(campaign[2])
-  print(campaignName + " " + str("%.2f" % avg))
+# Sort
+campaigns = sorted(campaigns.items(), key=lambda kv: kv[1], reverse =False)
+# Print result
+for c in range(len(campaigns)):
+    campaign = campaigns[c][1]
+    campaignName = campaigns[c][0]
+    avg = campaign[0] / len(campaign[2])
+    print(campaignName + " " + str("%.2f" % avg))
