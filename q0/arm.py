@@ -1,10 +1,8 @@
 import sys
 import datetime
 
+# Class
 class Customer:
-  month = {
-    ""
-  }
   def __init__(self, str):
     sep = str.split('|')
     self.id = sep[0]
@@ -16,6 +14,7 @@ class Customer:
     self.campaign = sep[7]
     self.channel = sep[8]
 
+# Variables
 customers = []
 
 """ read data """
@@ -29,6 +28,8 @@ while True:
   else:
     break
 
+# Filter
+# True when customer id is matched
 def filterCustomer(id):
   def filter(customer):
     if(customer.id == id):
@@ -37,8 +38,10 @@ def filterCustomer(id):
       return False
   return filter
 
+# Get filtered list
 filcus = list(filter(filterCustomer("150428059"), customers))
   
+# Print results
 for cus in filcus:
   print(cus.type)
 
