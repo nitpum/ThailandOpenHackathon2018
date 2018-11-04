@@ -1,6 +1,6 @@
 import sys
 import datetime
-
+import operator
 
 # List
 customers = []
@@ -21,17 +21,14 @@ class Customer:
   def __str__(self):
     return "{0}|{1}|{2}|{3}|{4}|{5}|{6}|{7}".format(self.id, self.time, self.cat, self.subcat, self.partner, self.type, self.campaign, self.channel)
 
-
-
-# def addCompany(company):
-#   if company not in companys:
-#     companys[company] = 0
-#   else
-#     companys[companys] += 1
+def addToDict(dict, key, value):
+  if key not in dict:
+    dict[key] = value
+  else:
+    dict[key] += value
 
 channels = {}
 subs = {}
-
 
 
 # Read Input
@@ -41,38 +38,29 @@ for line in lines:
   if (len(line.split('|')) >= 9 and line != "" and lineCount > 0):
     customer = Customer(line)
     customers.append(customer)
-    if customer.channel + " " + customer.subcat  not in channels:
-      channels[customer.channel + " " + customer.subcat] = 0
-    else:
-      channels[customer.channel + " " + customer.subcat] += 1
-    # if customer.channel not in channels:
-    #   channels[customer.channel] = 0
-    # else :
-    #   channels[customer.channel] += 1
-    # if customer.channel not in subs:
-    #   channels[customer.subcat] = 0
-    # else :
-    #   channels[customer.subcat] += 1
+    addToDict(channels, customer.channel + " " + customer.subcat, 1)
   lineCount += 1
 
-def addToDict(dict, key, value, defaultValue):
-  if key not in dict:
-    dict[key] = defaultValue
-  else:
-    dict[key] += value
+# DO !!!
 
+sorted_channels = sorted(channels.items(), key=operator.itemgetter(1), reverse=True)
+for c in sorted_channels:
+  print(c)
 
-sorted_company = sorted(channels.items(), key=lambda kv: kv[1], reverse =False)
-# sorted_company = sorted(channels.items(), key=lambda(k, v): (-v, k))
-# sorted_company = sorted(channels.items(), key=lambda(k, v): (-v, k))
-# for v in sorted(channels.iteritems(), key=lambda(k, v): (-v, k)):
-  # pass
-sorted_a = {}
-sorted_b = {}
-for c in range(0, 5):
-  # if sorted_company[len(sorted_company) - 1 - c][0] + " " + str(sorted_company[len(sorted_company) - 1 - c][1]) not in sorted_a
-  sorted_a[sorted_company[len(sorted_company) - 1 - c][0]] =  sorted_company[len(sorted_company) - 1 - c][1]
+max = sorted_channels[0][1]
 
+def filterMax(item):
+  return item[1] == max
+sorted_abc_channels = list(filter(filterMax, sorted_channels))
+print("===============")
+for c in sorted_abc_channels:
+  print(c)
+# sorted_channels = sorted(channels.items(), key=lambda kv: kv[1], reverse =False)
+# sorted_a = sorted_channels.sort(key=operator.itemgetter(0))
+# # for c in range(0, 5):
+# #   channel = sorted_channels[len(sorted_channels) - 1 - c]
+# #   sorted_a[channel[0]] = channel[1]
+# #   print(channel[0] + " " + str(channel[1]))
 
-
-  print (sorted_company[len(sorted_company) - 1 - c][0] + " " + str(sorted_company[len(sorted_company) - 1 - c][1]))
+# for c in range(5):
+#   print(sorted_a[c])
