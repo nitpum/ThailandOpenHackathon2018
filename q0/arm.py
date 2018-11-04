@@ -8,7 +8,7 @@ class Customer:
   def __init__(self, str):
     sep = str.split('|')
     self.id = sep[0]
-    self.timestamp = datetime.datetime.strptime(sep[1] + "|" + sep[2], '%d%b%Y|%H:%M:%S')
+    self.time = datetime.datetime.strptime(sep[1] + "|" + sep[2], '%d%b%Y|%H:%M:%S')
     self.cat = sep[3]
     self.subcat = sep[4]
     self.partner = sep[5]
@@ -18,9 +18,9 @@ class Customer:
 
 customers = []
 
+""" read data """
 line = sys.stdin.readline()
 
-""" read data """
 while True:
   """ read line """
   line = sys.stdin.readline()
