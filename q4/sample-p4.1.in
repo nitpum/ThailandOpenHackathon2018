@@ -1,0 +1,1000 @@
+CUSTOMER_ID|REDEMP_DT|REDEMP_TM|CAT_DESC|SUB_CAT_DESC|PRNTR_DESC|REDEEM_TYPE_DESC|CMPGN_TYPE_DESC|CHNL
+180493657|01AUG2018|8:21:04|Online|Online Service & Delivery|Skootar|Free|Platinum|USSD
+156096858|19AUG2018|13:45:50|Dining|Beverage|Mezzo|Discount|Standard|MBAP
+183471915|12AUG2018|13:52:52|Other|Other|Susco|Discount|Platinum|USSD
+258871716|05AUG2018|15:25:33|Dining|Beverage|Dean and Deluca|Free|Platinum|USSD
+162484630|17AUG2018|17:52:37|Other|Other|Susco|Discount|Platinum|USSD
+174129146|26AUG2018|19:16:10|Dining|Cafe / Restaurant Chain|ZEN Restaurant|Discount|Standard|USSD
+183663095|11AUG2018|14:19:05|Entertainment|Movie / Entertainment|SF Cinema|Discount|Platinum|USSD
+265368295|13AUG2018|20:13:43|Online|Online Service & Delivery|Grab|Discount|Standard|USSD
+265368295|01AUG2018|16:16:09|Dining|Beverage|D'Oro|Free|Platinum|MBAP
+265368295|01AUG2018|16:23:12|Dining|Beverage|D'Oro|Free|Standard|MBAP
+154363687|25AUG2018|16:37:59|Online|Online Service & Delivery|LINE MAN|Discount|Standard|USSD
+154363687|08AUG2018|9:47:23|Dining|Standalone|Real Caf?|Discount|Standard|USSD
+183034233|30AUG2018|17:40:16|Online|Online Service & Delivery|LINE MAN|Discount|Standard|USSD
+166521634|18AUG2018|19:52:03|Dining|Cafe / Restaurant Chain|Potato Corner|Discount|Standard|USSD
+166616917|19AUG2018|17:32:40|Dining|Cafe / Restaurant Chain|Marugame Seimen|Discount|Standard|USSD
+154819585|19AUG2018|14:10:54|Dining|Beverage|D'Oro|Discount|Standard|USSD
+154819585|31AUG2018|10:24:04|Dining|Cafe / Restaurant Chain|McDonald's|Discount|Standard|USSD
+154819585|22AUG2018|21:26:58|Dining|Cafe / Restaurant Chain|CHAOKOUY TATAM|Free|Standard|USSD
+253294963|24AUG2018|12:25:58|Shopping|Department store / Community mall|Siam future group|Discount|Standard|USSD
+170485673|23AUG2018|15:08:33|Dining|Beverage|D'Oro|Free|Platinum|USSD
+174563805|16AUG2018|19:00:28|Entertainment|Movie / Entertainment|Major Cineplex|Discount|Standard|MBAP
+174563805|04AUG2018|15:57:14|Dining|Beverage|D'Oro|Discount|Standard|USSD
+199251281|11AUG2018|18:27:05|Dining|Cafe / Restaurant Chain|ZEN Restaurant|Discount|Standard|USSD
+199251281|17AUG2018|14:12:57|Dining|Bakery & Ice Cream|Swensen's|Discount|Standard|MBAP
+178531891|12AUG2018|15:38:15|Dining|Cafe / Restaurant Chain|McDonald's|Discount|Standard|USSD
+177111476|31AUG2018|15:27:44|Entertainment|Movie / Entertainment|SF Cinema|Discount|Standard|USSD
+232491502|15AUG2018|7:19:18|Dining|Cafe / Restaurant Chain|The Coffee Club|Discount|Platinum|USSD
+181098709|11AUG2018|17:50:43|Dining|Cafe / Restaurant Chain|Subway|Discount|Standard|USSD
+181098709|27AUG2018|10:14:10|Dining|Branded Chain|Dunkin|Free|Standard|USSD
+181098709|02AUG2018|18:44:51|Entertainment|Movie / Entertainment|Blu-O|Discount|Standard|USSD
+164198093|19AUG2018|18:00:25|Dining|Beverage|Squeeze|Discount|Standard|USSD
+181318869|20AUG2018|12:49:30|Dining|Cafe / Restaurant Chain|MK restaurants|Discount|Standard|USSD
+178320675|12AUG2018|14:27:13|Dining|Beverage|Dean and Deluca|Discount|Gold|USSD
+240438082|07AUG2018|11:40:58|Other|Other|Susco|Discount|Platinum|USSD
+170417620|17AUG2018|20:21:34|Dining|Cafe / Restaurant Chain|Swensen|Discount|Standard|MBAP
+174147283|09AUG2018|15:50:34|Entertainment|Movie / Entertainment|Major Cineplex|Discount|Standard|MBAP
+183116182|12AUG2018|12:02:24|Dining|Beverage|Cafe Amazon|Discount|Standard|USSD
+174761470|01AUG2018|11:53:57|Dining|Beverage|Cafe Amazon|Discount|Standard|USSD
+154202927|19AUG2018|18:27:26|Dining|Cafe / Restaurant Chain|Burger King|Discount|Standard|MBAP
+179677712|13AUG2018|14:42:03|Dining|Cafe / Restaurant Chain|The Orange's Tea|Discount|Standard|USSD
+176745937|26AUG2018|18:34:40|Dining|Beverage|Yenly yours|Discount|Standard|USSD
+176745937|14AUG2018|9:32:17|Other|Other|Susco|Discount|Platinum|USSD
+176745937|01AUG2018|19:42:39|Dining|Beverage|Squeeze|Discount|Standard|USSD
+168789000|12AUG2018|19:01:29|Dining|Beverage|Squeeze|Discount|Standard|USSD
+175056847|23AUG2018|19:20:34|Dining|Bakery & Ice Cream|Bake Cheese Tart|Free|Standard|MBAP
+164290694|29AUG2018|17:24:13|Dining|Cafe / Restaurant Chain|Swensen|Discount|Standard|MBAP
+184144545|31AUG2018|18:35:40|Entertainment|Movie / Entertainment|Major Cineplex|Discount|Standard|MBAP
+184144545|07AUG2018|13:10:16|Dining|Beverage|D'Oro|Free|Platinum|MBAP
+182202284|04AUG2018|14:09:21|Dining|Cafe / Restaurant Chain|iberry|Free|Platinum|USSD
+177943751|24AUG2018|17:20:01|Entertainment|Movie / Entertainment|Major Cineplex|Discount|Standard|MBAP
+177943751|31AUG2018|13:59:57|Dining|Beverage|D'Oro|Discount|Standard|USSD
+260734494|26AUG2018|12:44:23|Dining|Beverage|Cafe Amazon|Discount|Standard|USSD
+184296263|17AUG2018|18:13:03|Dining|Beverage|D'Oro|Discount|Standard|USSD
+181413662|28AUG2018|12:49:51|Dining|Standalone|TENYA|Discount|Standard|USSD
+198785868|10AUG2018|19:23:43|Shopping|Department store / Community mall|Tops Market|Discount|Standard|USSD
+180347449|04AUG2018|12:53:12|Entertainment|Movie / Entertainment|SF Cinema|Discount|Standard|USSD
+181419622|31AUG2018|20:17:46|Dining|Bakery & Ice Cream|Swensen's|Discount|Gold|MBAP
+250966556|28AUG2018|13:07:21|Dining|Standalone|APRIL'S BAKERY|Discount|Standard|USSD
+182346024|19AUG2018|8:15:50|Dining|Beverage|Cafe Amazon|Discount|Standard|USSD
+183672290|03AUG2018|18:36:37|Dining|Branded Chain|FamilyMart|Discount|Standard|MBAP
+166617013|25AUG2018|21:26:35|Other|Internal reward|Kagonoya|Discount|Standard|USSD
+166617013|05AUG2018|16:27:02|Dining|Standalone|Ponmaree  Bakery|Free|Standard|USSD
+152525500|23AUG2018|22:11:05|Entertainment|Movie / Entertainment|SF Cinema|Discount|Standard|USSD
+167870344|02AUG2018|17:34:05|Dining|Beverage|D'Oro|Free|Platinum|USSD
+182279754|23AUG2018|12:47:13|Online|Online Service & Delivery|LINE MAN|Discount|Standard|USSD
+222100827|25AUG2018|14:13:54|Dining|Beverage|D'Oro|Discount|Standard|USSD
+181235891|13AUG2018|10:26:06|Dining|Cafe / Restaurant Chain|Burger King|Discount|Standard|MBAP
+178642846|06AUG2018|19:20:17|Dining|Branded Chain|MANEE ME MORE|Discount|Standard|USSD
+154367111|19AUG2018|9:00:36|Dining|Beverage|D'Oro|Discount|Standard|MBAP
+153780952|04AUG2018|13:40:50|Dining|Beverage|D'Oro|Discount|Standard|USSD
+153780952|19AUG2018|22:31:24|Other|Other|Susco|Discount|Platinum|USSD
+182054539|23AUG2018|19:43:52|Dining|Beverage|Squeeze|Discount|Standard|USSD
+182054539|03AUG2018|14:14:17|Dining|Beverage|D'Oro|Discount|Standard|USSD
+182054539|04AUG2018|18:34:24|Dining|Standalone|TAWANDANG GERMAN BREWERY|Discount|Standard|USSD
+173140099|17AUG2018|17:31:46|Dining|Bakery & Ice Cream|Swensen's|Discount|Gold|MBAP
+154335732|13AUG2018|18:57:07|Dining|Cafe / Restaurant Chain|MK restaurants|Discount|Standard|USSD
+156359594|04AUG2018|8:01:37|Dining|Beverage|D'Oro|Discount|Standard|USSD
+156359594|14AUG2018|8:39:51|Dining|Beverage|D'Oro|Free|Platinum|USSD
+182428242|11AUG2018|17:02:16|Dining|Bakery & Ice Cream|Swensen's|Discount|Standard|MBAP
+206668484|26AUG2018|14:59:34|Dining|Cafe / Restaurant Chain|Koi The|Discount|Standard|MBAP
+181116631|20AUG2018|14:08:26|Dining|Branded Chain|Dunkin|Free|Standard|USSD
+181116631|20AUG2018|14:58:45|Dining|Bakery & Ice Cream|Swensen's|Discount|Standard|MBAP
+172527664|31AUG2018|13:34:11|Dining|Beverage|D'Oro|Discount|Standard|USSD
+153296859|25AUG2018|9:37:51|Shopping|Department store / Community mall|Tops Market|Discount|Platinum|USSD
+157514530|13AUG2018|14:01:22|Other|Cafe / Restaurant Chain|Coffee World|Discount|Standard|MBAP
+157514530|16AUG2018|17:33:34|Education & Sports|Education / Sports|Gymboree Play & Music|Discount|Standard|USSD
+182136125|26AUG2018|15:28:29|Dining|Cafe / Restaurant Chain|ZEN Restaurant|Discount|Standard|USSD
+152626806|09AUG2018|10:51:42|Dining|Cafe / Restaurant Chain|iberry|Free|Platinum|USSD
+180220654|11AUG2018|13:51:59|Dining|Cafe / Restaurant Chain|ZEN Restaurant|Discount|Standard|USSD
+173148598|15AUG2018|21:45:41|Other|Other|Susco|Discount|Platinum|USSD
+175455261|25AUG2018|21:53:25|Dining|Cafe / Restaurant Chain|iberry|Free|Platinum|USSD
+193235380|08AUG2018|14:17:42|Dining|Bakery & Ice Cream|Swensen's|Discount|Standard|MBAP
+181560079|04AUG2018|14:13:38|Dining|Standalone|LEK TUM INTER|Free|Standard|USSD
+219397656|26AUG2018|19:32:31|Dining|Beverage|Mezzo|Discount|Standard|USSD
+180906374|04AUG2018|17:12:59|Other|Department store / Community mall|BTS|Discount|Standard|USSD
+179050345|29AUG2018|18:20:14|Dining|Cafe / Restaurant Chain|ZEN Restaurant|Discount|Standard|USSD
+157828856|09AUG2018|13:36:10|Dining|Cafe / Restaurant Chain|MK restaurants|Discount|Standard|USSD
+255308558|20AUG2018|14:20:40|Dining|Cafe / Restaurant Chain|Swensen|Discount|Standard|MBAP
+245754011|07AUG2018|7:01:00|Online|Online Service & Delivery|Grab|Discount|Standard|USSD
+181231730|13AUG2018|16:00:11|Entertainment|Movie / Entertainment|SF Cinema|Discount|Platinum|USSD
+181231730|13AUG2018|15:59:01|Entertainment|Movie / Entertainment|SF Cinema|Discount|Platinum|USSD
+158323188|04AUG2018|16:19:49|Shopping|Department store / Community mall|Siam future group|Discount|Standard|USSD
+243664829|12AUG2018|15:02:32|Shopping|Department store / Community mall|Tops Market|Discount|Platinum|USSD
+183054340|19AUG2018|21:12:22|Online|Online Service & Delivery|LINE MAN|Discount|Standard|USSD
+175662315|05AUG2018|15:01:37|Shopping|Department store / Community mall|King Power|Discount|Standard|USSD
+168443431|19AUG2018|20:12:16|Shopping|Department store / Community mall|Tops Market|Discount|Standard|USSD
+202395472|29AUG2018|19:55:26|Dining|Beverage|Squeeze|Discount|Standard|USSD
+162600756|09AUG2018|20:34:31|Entertainment|Movie / Entertainment|Major Cineplex|Discount|Standard|MBAP
+162600756|30AUG2018|15:41:43|Entertainment|Movie / Entertainment|SF Cinema|Discount|Standard|MBAP
+162600756|17AUG2018|20:39:25|Dining|Bakery & Ice Cream|Baskin|Discount|Gold|MBAP
+162600756|19AUG2018|18:47:22|Dining|Cafe / Restaurant Chain|MK restaurants|Discount|Standard|USSD
+162600756|26AUG2018|19:58:14|Dining|Bakery & Ice Cream|Swensen's|Discount|Gold|MBAP
+177625295|10AUG2018|16:48:23|Entertainment|Movie / Entertainment|Major Cineplex|Discount|Standard|MBAP
+177136097|01AUG2018|13:02:34|Dining|Beverage|Squeeze|Discount|Gold|USSD
+162987288|08AUG2018|12:20:14|Dining|Cafe / Restaurant Chain|The Coffee Club|Discount|Platinum|USSD
+162987288|06AUG2018|11:47:55|Dining|Branded Chain|Dunkin|Free|Standard|USSD
+162987288|08AUG2018|11:26:57|Dining|Cafe / Restaurant Chain|Burger King|Discount|Standard|MBAP
+161961506|04AUG2018|13:57:20|Other|Department store / Community mall|BTS|Discount|Standard|USSD
+182076548|06AUG2018|12:57:59|Dining|Beverage|Dean and Deluca|Free|Platinum|USSD
+182076548|25AUG2018|16:36:53|Dining|Bakery & Ice Cream|Swensen's|Discount|Gold|MBAP
+182076548|08AUG2018|13:19:30|Entertainment|Movie / Entertainment|Blu-O|Discount|Standard|MBAP
+182076548|08AUG2018|14:52:18|Entertainment|Movie / Entertainment|Blu-O|Discount|Standard|USSD
+181582581|29AUG2018|16:51:25|Dining|Branded Chain|Dairy Queen|Discount|Standard|USSD
+242017781|20AUG2018|13:05:15|Dining|Cafe / Restaurant Chain|MK restaurants|Discount|Standard|USSD
+277433347|12AUG2018|9:16:12|Online|Online Service & Delivery|Grab|Discount|Standard|USSD
+175663261|08AUG2018|11:45:04|Dining|Cafe / Restaurant Chain|McDonald's|Discount|Standard|MBAP
+180914402|27AUG2018|13:08:50|Dining|Cafe / Restaurant Chain|Viet cuisine|Discount|Standard|USSD
+170515234|18AUG2018|15:35:59|Entertainment|Movie / Entertainment|Major Cineplex|Discount|Standard|MBAP
+170515234|13AUG2018|10:08:47|Dining|Standalone|GRAND COFFEE BOY|Free|Standard|USSD
+183109825|01AUG2018|8:22:22|Dining|Beverage|Cafe Amazon|Discount|Standard|USSD
+175546954|19AUG2018|18:20:35|Dining|Cafe / Restaurant Chain|MK restaurants|Discount|Standard|USSD
+170156645|27AUG2018|19:50:08|Dining|Beverage|Squeeze|Discount|Standard|USSD
+151533568|29AUG2018|11:29:52|Dining|Beverage|Squeeze|Discount|Gold|USSD
+239912693|12AUG2018|9:32:38|Dining|Cafe / Restaurant Chain|Burger King|Discount|Standard|USSD
+185200122|11AUG2018|17:31:12|Dining|Cafe / Restaurant Chain|ZEN Restaurant|Discount|Standard|USSD
+173160226|20AUG2018|16:32:16|Shopping|Department store / Community mall|Tops Market|Discount|Standard|MBAP
+173160226|06AUG2018|17:03:07|Dining|Cafe / Restaurant Chain|iberry|Free|Platinum|MBAP
+194595930|22AUG2018|14:46:27|Other|Other|Susco|Discount|Platinum|USSD
+218856771|26AUG2018|19:17:01|Dining|Cafe / Restaurant Chain|McDonald's|Discount|Standard|USSD
+166357386|01AUG2018|17:12:41|Dining|Beverage|D'Oro|Discount|Standard|USSD
+180859292|23AUG2018|9:06:04|Other|Cafe / Restaurant Chain|Coffee World|Discount|Standard|MBAP
+180859292|15AUG2018|9:32:34|Dining|Branded Chain|FamilyMart|Discount|Standard|MBAP
+180859292|24AUG2018|14:20:50|Dining|Beverage|D'Oro|Free|Platinum|MBAP
+183684269|01AUG2018|13:26:15|Dining|Branded Chain|Kyochon|Discount|Standard|USSD
+182234443|13AUG2018|8:23:53|Dining|Beverage|Cafe Amazon|Discount|Standard|USSD
+174835812|18AUG2018|15:59:34|Dining|Beverage|D'Oro|Discount|Standard|USSD
+174835812|03AUG2018|20:33:53|Dining|Bakery & Ice Cream|Swensen's|Discount|Standard|MBAP
+174835812|23AUG2018|20:18:45|Dining|Bakery & Ice Cream|Swensen's|Discount|Gold|MBAP
+157832681|11AUG2018|10:41:21|Dining|Cafe / Restaurant Chain|Burger King|Discount|Standard|USSD
+179707209|19AUG2018|20:11:30|Dining|Cafe / Restaurant Chain|Au bon pain|Discount|Standard|MBAP
+176979890|18AUG2018|14:55:40|Dining|Beverage|D'Oro|Discount|Standard|USSD
+199286690|13AUG2018|10:02:29|Other|Other|Susco|Discount|Platinum|USSD
+169380841|31AUG2018|17:04:57|Dining|Cafe / Restaurant Chain|MK restaurants|Discount|Standard|USSD
+240049627|06AUG2018|20:34:35|Dining|Bakery & Ice Cream|Swensen's|Discount|Standard|MBAP
+240049627|06AUG2018|20:33:09|Dining|Bakery & Ice Cream|Swensen's|Discount|Gold|MBAP
+181864646|18AUG2018|17:40:04|Shopping|Department store / Community mall|Tops Market|Discount|Standard|USSD
+160263844|10AUG2018|9:21:25|Other|Other|Susco|Free|Standard|USSD
+156514938|19AUG2018|14:07:14|Dining|Cafe / Restaurant Chain|AKA|Discount|Gold|USSD
+164543186|12AUG2018|15:21:55|Dining|Beverage|D'Oro|Discount|Standard|USSD
+158917506|09AUG2018|11:43:42|Other|Other|Susco|Discount|Platinum|USSD
+173418303|12AUG2018|15:39:18|Entertainment|Movie / Entertainment|SF Cinema|Discount|Platinum|USSD
+202774778|09AUG2018|17:01:47|Dining|Cafe / Restaurant Chain|ZEN Restaurant|Discount|Standard|USSD
+202774778|04AUG2018|10:10:41|Dining|Cafe / Restaurant Chain|Au bon pain|Discount|Standard|MBAP
+202774778|04AUG2018|10:11:19|Dining|Cafe / Restaurant Chain|Au bon pain|Discount|Standard|MBAP
+186919284|01AUG2018|20:23:47|Dining|Bakery & Ice Cream|Swensen's|Discount|Standard|MBAP
+186919284|17AUG2018|18:39:00|Dining|Beverage|ATM Tea bar|Free|Standard|MBAP
+165354813|05AUG2018|12:44:17|Other|Cafe / Restaurant Chain|Coffee World|Discount|Standard|MBAP
+153052825|21AUG2018|11:45:53|Dining|Cafe / Restaurant Chain|Burger King|Discount|Standard|MBAP
+160710496|01AUG2018|8:53:28|Dining|Cafe / Restaurant Chain|Au bon pain|Discount|Standard|USSD
+175690687|20AUG2018|15:49:51|Other|Other|Susco|Free|Standard|USSD
+161844638|26AUG2018|14:38:01|Dining|Standalone|PAN KHAM HOM|Discount|Standard|USSD
+161844638|29AUG2018|12:58:50|Dining|Cafe / Restaurant Chain|McDonald's|Discount|Standard|MBAP
+180382272|03AUG2018|14:13:58|Dining|Cafe / Restaurant Chain|Au bon pain|Discount|Standard|MBAP
+168696049|03AUG2018|21:00:11|Dining|Cafe / Restaurant Chain|iberry|Free|Platinum|MBAP
+151487377|20AUG2018|13:03:24|Dining|Standalone|Ben's Cookies|Discount|Standard|USSD
+154661340|13AUG2018|18:22:42|Dining|Cafe / Restaurant Chain|MK restaurants|Discount|Standard|USSD
+162612274|11AUG2018|16:28:53|Shopping|Department store / Community mall|Tops Market|Discount|Standard|USSD
+164632631|29AUG2018|17:26:37|Dining|Branded Chain|Kyochon|Discount|Standard|USSD
+179870298|19AUG2018|12:11:24|Online|Online Service & Delivery|Grab|Discount|Standard|MBAP
+177293757|16AUG2018|16:57:27|Dining|Branded Chain|Dairy Queen|Discount|Standard|USSD
+183782766|24AUG2018|11:55:50|Dining|Beverage|Cafe Amazon|Discount|Standard|USSD
+183782766|01AUG2018|20:11:21|Shopping|Department store / Community mall|NATURE REPUBLIC|Discount|Standard|USSD
+225501828|11AUG2018|9:05:46|Dining|Cafe / Restaurant Chain|Burger King|Discount|Standard|USSD
+179715590|12AUG2018|17:12:37|Dining|Beverage|D'Oro|Discount|Standard|USSD
+230631359|25AUG2018|17:01:42|Dining|Beverage|Squeeze|Discount|Standard|USSD
+182454991|01AUG2018|12:27:49|Dining|Beverage|Squeeze|Discount|Gold|USSD
+182454991|21AUG2018|14:06:37|Dining|Beverage|D'Oro|Free|Platinum|MBAP
+183330757|31AUG2018|16:13:08|Shopping|Department store / Community mall|Tops Market|Discount|Standard|USSD
+188874227|08AUG2018|11:45:49|Dining|Beverage|D'Oro|Free|Platinum|USSD
+191121122|11AUG2018|14:01:11|Dining|Cafe / Restaurant Chain|Tummour|Discount|Standard|USSD
+180101218|11AUG2018|13:28:16|Dining|Cafe / Restaurant Chain|McDonald's|Discount|Standard|USSD
+165001111|02AUG2018|20:28:21|Dining|Branded Chain|FamilyMart|Discount|Standard|MBAP
+165001111|19AUG2018|19:31:41|Dining|Bakery & Ice Cream|Swensen's|Discount|Standard|MBAP
+173896671|26AUG2018|13:50:34|Shopping|Department store / Community mall|Tops Market|Discount|Platinum|USSD
+173896671|26AUG2018|13:51:01|Shopping|Department store / Community mall|Tops Market|Discount|Standard|USSD
+161116428|10AUG2018|12:56:00|Dining|Beverage|Cafe Amazon|Discount|Standard|USSD
+161116428|09AUG2018|14:47:10|Dining|Cafe / Restaurant Chain|Viet cuisine|Free|Standard|USSD
+161436636|10AUG2018|17:36:13|Dining|Beverage|D'Oro|Discount|Standard|USSD
+227415099|08AUG2018|14:01:10|Dining|Beverage|CAFFE MUAN CHON|Discount|Standard|USSD
+227415099|22AUG2018|13:45:07|Dining|Beverage|CAFFE MUAN CHON|Discount|Standard|USSD
+151871085|03AUG2018|14:53:10|Other|Cafe / Restaurant Chain|Coffee World|Discount|Standard|MBAP
+221152849|11AUG2018|14:16:05|Dining|Standalone|MUNA ROTI|Free|Standard|USSD
+160830287|22AUG2018|20:19:52|Dining|Cafe / Restaurant Chain|Swensen|Discount|Standard|MBAP
+193181975|25AUG2018|13:47:15|Dining|Beverage|D'Oro|Discount|Standard|USSD
+193181975|17AUG2018|21:19:11|Other|Department store / Community mall|BTS|Discount|Standard|USSD
+158365939|03AUG2018|12:31:27|Shopping|Department store / Community mall|Tops Market|Discount|Standard|USSD
+182318754|07AUG2018|9:24:40|Dining|Beverage|D'Oro|Free|Platinum|USSD
+178556994|19AUG2018|14:49:35|Dining|Cafe / Restaurant Chain|Au bon pain|Discount|Standard|MBAP
+178556994|03AUG2018|18:06:14|Dining|Bakery & Ice Cream|Swensen's|Discount|Standard|MBAP
+178556994|03AUG2018|18:04:29|Dining|Bakery & Ice Cream|Swensen's|Discount|Gold|MBAP
+178556994|19AUG2018|14:50:20|Dining|Cafe / Restaurant Chain|Au bon pain|Discount|Standard|MBAP
+152381597|25AUG2018|10:59:55|Dining|Cafe / Restaurant Chain|Burger King|Discount|Standard|USSD
+179503537|03AUG2018|22:23:36|Dining|Cafe / Restaurant Chain|McDonald's|Discount|Standard|MBAP
+174306126|22AUG2018|14:41:31|Dining|Cafe / Restaurant Chain|ZEN Restaurant|Discount|Standard|USSD
+174306126|22AUG2018|14:42:16|Dining|Cafe / Restaurant Chain|ZEN Restaurant|Discount|Standard|USSD
+166540647|11AUG2018|14:58:21|Dining|Cafe / Restaurant Chain|Au bon pain|Discount|Standard|MBAP
+180601468|07AUG2018|18:20:24|Dining|Branded Chain|FamilyMart|Discount|Standard|MBAP
+178975291|18AUG2018|9:33:11|Dining|Cafe / Restaurant Chain|Burger King|Discount|Standard|USSD
+162630416|13AUG2018|17:28:55|Dining|Cafe / Restaurant Chain|MK restaurants|Discount|Standard|USSD
+160113021|11AUG2018|15:18:21|Dining|Beverage|D'Oro|Discount|Standard|USSD
+174695416|17AUG2018|18:46:54|Dining|Bakery & Ice Cream|Swensen's|Discount|Standard|MBAP
+230637100|21AUG2018|9:03:10|Online|Online Service & Delivery|Skootar|Free|Platinum|USSD
+167274014|15AUG2018|12:32:01|Dining|Cafe / Restaurant Chain|Jeffer|Discount|Standard|USSD
+160835297|25AUG2018|10:17:44|Dining|Cafe / Restaurant Chain|Burger King|Discount|Standard|USSD
+160835297|04AUG2018|19:39:34|Dining|Cafe / Restaurant Chain|iberry|Free|Platinum|USSD
+160835297|05AUG2018|12:49:14|Dining|Standalone|CHICAGO STEAK AND GRILL|Free|Standard|USSD
+160835297|24AUG2018|14:58:32|Dining|Cafe / Restaurant Chain|Tummour|Discount|Standard|USSD
+155888613|13AUG2018|15:58:02|Dining|Beverage|D'Oro|Discount|Standard|USSD
+193889298|05AUG2018|18:23:09|Dining|Bakery & Ice Cream|Swensen's|Discount|Gold|MBAP
+164103101|29AUG2018|13:50:55|Dining|Standalone|HELLO YOGURT|Discount|Standard|USSD
+164332276|10AUG2018|20:10:14|Dining|Beverage|Mezzo|Discount|Standard|MBAP
+164332276|01AUG2018|19:31:16|Dining|Branded Chain|FamilyMart|Discount|Standard|MBAP
+182243592|17AUG2018|13:31:00|Shopping|Department store / Community mall|Tops Market|Discount|Standard|USSD
+171636732|11AUG2018|15:35:21|Dining|Bakery & Ice Cream|Swensen's|Discount|Gold|MBAP
+222093431|13AUG2018|9:40:34|Dining|Cafe / Restaurant Chain|Burger King|Discount|Standard|USSD
+173785820|23AUG2018|16:29:58|Dining|Standalone|KIKI-SARU|Discount|Standard|USSD
+183794001|08AUG2018|16:38:28|Other|Other|Susco|Discount|Platinum|USSD
+181556412|10AUG2018|17:01:57|Dining|Beverage|Dean and Deluca|Discount|Gold|USSD
+175489581|20AUG2018|12:41:28|Other|Cafe / Restaurant Chain|Coffee World|Discount|Standard|MBAP
+179721943|18AUG2018|9:26:11|Dining|Cafe / Restaurant Chain|Burger King|Discount|Standard|USSD
+168712136|16AUG2018|11:23:46|Dining|Standalone|GRAND COFFEE BOY|Free|Standard|USSD
+168712136|23AUG2018|11:00:10|Dining|Beverage|D'Oro|Discount|Standard|USSD
+179653914|08AUG2018|18:16:31|Entertainment|Movie / Entertainment|Major Cineplex|Discount|Standard|MBAP
+179438544|17AUG2018|11:22:21|Dining|Branded Chain|Dairy Queen|Discount|Standard|USSD
+161830531|19AUG2018|19:17:54|Dining|Bakery & Ice Cream|Swensen's|Discount|Gold|MBAP
+153248959|09AUG2018|14:28:14|Entertainment|Movie / Entertainment|Major Cineplex|Discount|Standard|MBAP
+158187413|06AUG2018|13:18:30|Dining|Beverage|Mezzo|Free|Standard|USSD
+171642290|03AUG2018|7:05:59|Dining|Beverage|D'Oro|Free|Platinum|USSD
+165983614|25AUG2018|17:16:57|Dining|Beverage|D'Oro|Discount|Standard|USSD
+166558388|16AUG2018|20:02:10|Dining|Bakery & Ice Cream|Swensen's|Discount|Standard|MBAP
+177299100|13AUG2018|20:03:05|Dining|Bakery & Ice Cream|Swensen's|Discount|Gold|MBAP
+154421899|12AUG2018|15:25:53|Shopping|Department store / Community mall|Siam future group|Discount|Standard|USSD
+176794862|22AUG2018|18:04:02|Dining|Bakery & Ice Cream|Swensen's|Discount|Standard|MBAP
+176794862|11AUG2018|15:06:10|Dining|Bakery & Ice Cream|Swensen's|Discount|Gold|MBAP
+182856462|07AUG2018|20:54:49|Dining|Bakery & Ice Cream|Swensen's|Discount|Gold|MBAP
+183735935|28AUG2018|17:15:51|Dining|Cafe / Restaurant Chain|MK restaurants|Discount|Standard|USSD
+167525516|04AUG2018|11:15:30|Dining|Beverage|D'Oro|Discount|Standard|USSD
+180115766|19AUG2018|20:24:24|Dining|Bakery & Ice Cream|Hokkaido|Discount|Standard|USSD
+163379339|01AUG2018|12:15:33|Dining|Beverage|D'Oro|Free|Platinum|USSD
+162843129|24AUG2018|15:14:11|Dining|Branded Chain|Dairy Queen|Discount|Standard|USSD
+182540377|11AUG2018|16:22:58|Entertainment|Movie / Entertainment|Major Cineplex|Discount|Standard|MBAP
+181370634|07AUG2018|9:17:27|Dining|Beverage|Dean and Deluca|Free|Platinum|USSD
+156078721|10AUG2018|14:46:39|Dining|Beverage|D'Oro|Discount|Standard|USSD
+174643642|21AUG2018|12:07:20|Shopping|Department store / Community mall|Tops Market|Discount|Standard|USSD
+157986866|05AUG2018|15:34:35|Other|Cafe / Restaurant Chain|Coffee World|Discount|Standard|MBAP
+154888612|26AUG2018|12:11:04|Dining|Cafe / Restaurant Chain|On The Table|Discount|Standard|MBAP
+152465526|21AUG2018|20:14:28|Dining|Cafe / Restaurant Chain|McDonald's|Discount|Standard|USSD
+158192279|09AUG2018|8:08:10|Dining|Beverage|Dean and Deluca|Free|Platinum|USSD
+158192279|28AUG2018|13:17:32|Shopping|Department store / Community mall|Tops Market|Discount|Platinum|USSD
+158192279|04AUG2018|15:27:59|Dining|Cafe / Restaurant Chain|iberry|Free|Platinum|USSD
+206431071|25AUG2018|15:48:54|Other|Cafe / Restaurant Chain|Coffee World|Discount|Standard|MBAP
+164247115|05AUG2018|13:15:44|Dining|Cafe / Restaurant Chain|iberry|Free|Platinum|USSD
+167701315|20AUG2018|20:36:15|Dining|Branded Chain|Dairy Queen|Discount|Standard|USSD
+181374101|05AUG2018|14:51:09|Dining|Bakery & Ice Cream|Krispy Kreme|Discount|Gold|USSD
+164534321|17AUG2018|18:29:23|Dining|Beverage|Squeeze|Discount|Standard|USSD
+164534321|15AUG2018|14:01:53|Dining|Cafe / Restaurant Chain|The Coffee Bean & Tea Leaf|Discount|Standard|USSD
+164534321|10AUG2018|12:03:49|Dining|Cafe / Restaurant Chain|The Coffee Bean & Tea Leaf|Discount|Standard|USSD
+164534321|19AUG2018|20:05:19|Beauty & Healthy|Beauty / Salon / Optic|Jaja Salon|Free|Standard|USSD
+182736424|18AUG2018|9:58:38|Dining|Beverage|CAFFE MUAN CHON|Discount|Standard|USSD
+155226913|14AUG2018|18:26:31|Online|Online Service & Delivery|LINE MAN|Discount|Standard|USSD
+163798144|25AUG2018|17:28:00|Dining|Beverage|D'Oro|Discount|Standard|USSD
+214636208|22AUG2018|11:16:16|Dining|Cafe / Restaurant Chain|AKA|Discount|Gold|USSD
+176131109|13AUG2018|8:42:50|Dining|Beverage|D'Oro|Free|Platinum|USSD
+215296846|11AUG2018|14:56:11|Dining|Cafe / Restaurant Chain|AKA|Discount|Gold|MBAP
+181256679|30AUG2018|11:04:56|Hotel & Travel|Hotel & Resort / Tour Agent|SKOOTAR Discount 20%|Discount|Platinum|USSD
+164089966|03AUG2018|19:10:25|Other|Department store / Community mall|BTS|Discount|Standard|USSD
+153407156|04AUG2018|18:18:30|Dining|Beverage|Dean and Deluca|Free|Platinum|USSD
+187022410|25AUG2018|18:44:43|Dining|Bakery & Ice Cream|Swensen's|Discount|Standard|MBAP
+152590787|20AUG2018|15:21:18|Dining|Cafe / Restaurant Chain|Swensen|Discount|Standard|MBAP
+183902840|09AUG2018|17:51:43|Entertainment|Movie / Entertainment|SF Cinema|Discount|Standard|USSD
+183902840|31AUG2018|23:22:17|Other|Other|Susco|Free|Standard|USSD
+183902840|31AUG2018|23:21:25|Other|Other|Susco|Discount|Platinum|USSD
+203122553|13AUG2018|17:36:50|Dining|Beverage|Squeeze|Discount|Standard|USSD
+231554898|06AUG2018|17:39:45|Dining|Beverage|D'Oro|Discount|Standard|USSD
+181261704|26AUG2018|16:36:31|Dining|Cafe / Restaurant Chain|Gindaco|Discount|Standard|USSD
+183721381|18AUG2018|20:16:43|Shopping|Department store / Community mall|Tops Market|Discount|Standard|USSD
+183890331|17AUG2018|16:25:55|Entertainment|Movie / Entertainment|Major Cineplex|Discount|Standard|MBAP
+163226591|27AUG2018|17:00:55|Dining|Standalone|NOMIMONO IZAKAYA|Discount|Standard|USSD
+266390338|30AUG2018|10:23:06|Entertainment|Movie / Entertainment|SF Cinema|Discount|Standard|USSD
+154864435|26AUG2018|19:32:25|Dining|Bakery & Ice Cream|AMOR|Discount|Standard|USSD
+152467234|01AUG2018|18:07:35|Online|Online Service & Delivery|LINE MAN|Discount|Standard|USSD
+189203491|17AUG2018|18:56:39|Dining|Cafe / Restaurant Chain|MK restaurants|Discount|Standard|USSD
+162853995|04AUG2018|14:41:22|Entertainment|Movie / Entertainment|SF Cinema|Discount|Standard|USSD
+168602930|18AUG2018|15:31:07|Other|Internal reward|FRUZ BERRY|Discount|Standard|USSD
+171967280|24AUG2018|8:03:41|Dining|Cafe / Restaurant Chain|Au bon pain|Discount|Standard|MBAP
+171967280|06AUG2018|16:45:04|Online|Online Shopping|Homepro Online|Discount|Standard|USSD
+171967280|16AUG2018|8:44:23|Dining|Beverage|D'Oro|Free|Standard|USSD
+167198025|24AUG2018|15:50:10|Dining|Branded Chain|Dairy Queen|Discount|Standard|USSD
+167198025|26AUG2018|11:33:31|Dining|Cafe / Restaurant Chain|McDonald's|Discount|Standard|USSD
+157145535|29AUG2018|9:48:45|Dining|Beverage|D'Oro|Free|Platinum|USSD
+164095842|08AUG2018|16:03:54|Dining|Branded Chain|Dairy Queen|Discount|Standard|USSD
+164095842|22AUG2018|11:51:31|Dining|Standalone|GRAND COFFEE BOY|Free|Standard|USSD
+162641127|11AUG2018|9:26:26|Shopping|Department store / Community mall|Tops Market|Discount|Platinum|USSD
+223856570|12AUG2018|13:40:04|Dining|Cafe / Restaurant Chain|Potato Corner|Discount|Standard|USSD
+183909912|19AUG2018|11:25:40|Dining|Standalone|PANA CAFE AND BISTRO|Discount|Standard|USSD
+182750799|07AUG2018|5:52:27|Online|Online Service & Delivery|Skootar|Free|Platinum|USSD
+182477654|10AUG2018|9:14:01|Dining|Cafe / Restaurant Chain|Burger King|Discount|Standard|USSD
+151982508|31AUG2018|12:02:14|Dining|Cafe / Restaurant Chain|MK restaurants|Discount|Standard|USSD
+177514527|19AUG2018|21:20:21|Dining|Cafe / Restaurant Chain|MK restaurants|Discount|Standard|USSD
+218635458|26AUG2018|18:44:58|Dining|Cafe / Restaurant Chain|ZEN Restaurant|Discount|Standard|USSD
+155876361|04AUG2018|22:11:46|Dining|Cafe / Restaurant Chain|Burger King|Discount|Standard|MBAP
+155876361|20AUG2018|20:06:28|Dining|Bakery & Ice Cream|Swensen's|Discount|Gold|MBAP
+155876361|29AUG2018|9:59:17|Dining|Cafe / Restaurant Chain|Au bon pain|Discount|Standard|USSD
+174201259|23AUG2018|17:42:24|Dining|Bakery & Ice Cream|Swensen's|Discount|Gold|MBAP
+151056050|10AUG2018|16:48:15|Dining|Branded Chain|Dairy Queen|Discount|Standard|USSD
+151056050|25AUG2018|17:55:55|Dining|Beverage|D'Oro|Discount|Standard|USSD
+178274547|24AUG2018|14:35:50|Dining|Beverage|D'Oro|Discount|Standard|USSD
+238063473|12AUG2018|20:23:46|Dining|Bakery & Ice Cream|Baskin|Discount|Gold|USSD
+238063473|25AUG2018|7:36:42|Dining|Beverage|D'Oro|Discount|Standard|MBAP
+154695056|13AUG2018|20:08:35|Dining|Standalone|APRIL'S BAKERY|Discount|Standard|USSD
+165811128|09AUG2018|15:11:46|Dining|Cafe / Restaurant Chain|ZEN Restaurant|Discount|Standard|USSD
+170069343|06AUG2018|19:05:28|Dining|Branded Chain|Chester's|Discount|Standard|MBAP
+170069343|11AUG2018|20:36:21|Dining|Bakery & Ice Cream|Swensen's|Discount|Standard|MBAP
+155923899|05AUG2018|13:10:05|Other|Internal reward|FRUZ BERRY|Discount|Standard|USSD
+164833230|19AUG2018|16:00:24|Dining|Branded Chain|Dairy Queen|Discount|Standard|USSD
+188822866|01AUG2018|15:19:04|Dining|Cafe / Restaurant Chain|McDonald's|Discount|Standard|USSD
+188822866|03AUG2018|8:15:45|Other|Department store / Community mall|BTS|Discount|Standard|USSD
+151806922|10AUG2018|14:10:23|Dining|Beverage|D'Oro|Discount|Standard|USSD
+174832738|08AUG2018|16:34:10|Dining|Branded Chain|Dairy Queen|Discount|Standard|USSD
+155094315|08AUG2018|17:58:08|Dining|Bakery & Ice Cream|Krispy Kreme|Discount|Gold|USSD
+231818924|18AUG2018|10:59:35|Dining|Branded Chain|Dairy Queen|Discount|Standard|USSD
+156992042|09AUG2018|12:45:57|Dining|Cafe / Restaurant Chain|ZEN Restaurant|Discount|Standard|USSD
+170282177|13AUG2018|13:46:27|Shopping|Department store / Community mall|Siam future group|Discount|Standard|USSD
+185787872|20AUG2018|16:41:37|Entertainment|Movie / Entertainment|SF Cinema|Discount|Standard|USSD
+176428532|08AUG2018|14:56:09|Dining|Cafe / Restaurant Chain|MK restaurants|Discount|Standard|USSD
+189347241|19AUG2018|13:16:49|Dining|Standalone|JENGOR'S KITCHEN|Discount|Standard|USSD
+179751301|11AUG2018|15:49:25|Dining|Bakery & Ice Cream|Swensen's|Discount|Standard|MBAP
+171662204|08AUG2018|18:32:43|Dining|Cafe / Restaurant Chain|MK restaurants|Discount|Standard|USSD
+180283145|21AUG2018|13:52:21|Dining|Cafe / Restaurant Chain|Texas Chicken|Discount|Standard|USSD
+181472219|24AUG2018|6:22:27|Online|Online Service & Delivery|Grab|Discount|Standard|USSD
+181472219|11AUG2018|16:35:37|Dining|Beverage|D'Oro|Discount|Standard|USSD
+271256520|10AUG2018|9:46:30|Dining|Cafe / Restaurant Chain|Burger King|Discount|Standard|USSD
+152014291|18AUG2018|9:26:26|Dining|Cafe / Restaurant Chain|Burger King|Discount|Standard|USSD
+202450799|15AUG2018|12:59:31|Other|Other|Shell|Discount|Standard|USSD
+202450799|22AUG2018|13:40:27|Dining|Cafe / Restaurant Chain|MK restaurants|Discount|Standard|USSD
+158207503|24AUG2018|13:55:58|Dining|Bakery & Ice Cream|Swensen's|Discount|Standard|MBAP
+222818012|11AUG2018|6:52:06|Shopping|Department store / Community mall|King Power|Discount|Standard|USSD
+157885644|15AUG2018|19:28:08|Other|Other|Susco|Discount|Platinum|USSD
+165605275|18AUG2018|19:51:59|Dining|Bakery & Ice Cream|Baskin|Discount|Gold|USSD
+168402298|05AUG2018|11:51:35|Shopping|Department store / Community mall|Tops Market|Discount|Platinum|USSD
+179470022|01AUG2018|13:24:16|Other|Department store / Community mall|EmProium EmQuartier Paragon|Discount|Platinum|USSD
+185132194|02AUG2018|16:28:36|Dining|Cafe / Restaurant Chain|ZEN Restaurant|Discount|Standard|USSD
+166872384|17AUG2018|17:39:00|Dining|Cafe / Restaurant Chain|MK restaurants|Discount|Standard|USSD
+173822139|07AUG2018|13:29:34|Dining|Bakery & Ice Cream|Swensen's|Discount|Gold|MBAP
+171759460|13AUG2018|15:33:49|Dining|Beverage|D'Oro|Discount|Standard|USSD
+181076300|29AUG2018|16:45:07|Dining|Cafe / Restaurant Chain|MK restaurants|Discount|Standard|USSD
+189790797|18AUG2018|13:26:31|Dining|Cafe / Restaurant Chain|MK restaurants|Discount|Standard|USSD
+173939190|12AUG2018|10:12:08|Dining|Cafe / Restaurant Chain|Burger King|Discount|Standard|USSD
+155935011|31AUG2018|18:10:42|Dining|Cafe / Restaurant Chain|Gindaco|Discount|Standard|USSD
+166699458|03AUG2018|17:10:35|Dining|Bakery & Ice Cream|Swensen's|Discount|Gold|MBAP
+164335473|23AUG2018|13:25:41|Dining|Beverage|D'Oro|Free|Platinum|MBAP
+195516839|02AUG2018|21:00:16|Other|Department store / Community mall|EmProium EmQuartier Paragon|Discount|Platinum|USSD
+157387786|12AUG2018|11:29:21|Dining|Beverage|Cafe Amazon|Discount|Standard|USSD
+171440759|10AUG2018|15:00:31|Dining|Cafe / Restaurant Chain|McDonald's|Discount|Standard|USSD
+164583296|22AUG2018|11:47:19|Dining|Branded Chain|Chester's|Discount|Standard|MBAP
+164583296|31AUG2018|10:07:27|Dining|Beverage|D'Oro|Free|Platinum|MBAP
+164583296|28AUG2018|11:48:01|Dining|Cafe / Restaurant Chain|MJ Food|Free|Standard|USSD
+155915390|13AUG2018|13:22:58|Shopping|Department store / Community mall|Tops Market|Discount|Standard|USSD
+278695344|31AUG2018|18:45:35|Dining|Cafe / Restaurant Chain|Texas Chicken|Discount|Standard|USSD
+254989994|18AUG2018|20:23:38|Shopping|Department store / Community mall|Tops Market|Discount|Standard|USSD
+254989994|30AUG2018|12:10:28|Dining|Bakery & Ice Cream|Swensen's|Discount|Gold|MBAP
+154250407|12AUG2018|15:14:54|Dining|Beverage|D'Oro|Discount|Standard|USSD
+176048165|06AUG2018|9:30:00|Dining|Cafe / Restaurant Chain|Au bon pain|Discount|Standard|MBAP
+169423208|31AUG2018|17:32:52|Entertainment|Movie / Entertainment|SF Cinema|Discount|Standard|USSD
+154928194|25AUG2018|12:12:29|Dining|Standalone|Ben's Cookies|Discount|Standard|USSD
+177590964|02AUG2018|14:26:25|Beauty & Healthy|Hospital / Spa / Wellness|NORAWADEE SPA|Discount|Standard|USSD
+154889622|29AUG2018|16:18:41|Dining|Bakery & Ice Cream|Swensen's|Discount|Standard|MBAP
+155194883|13AUG2018|12:16:11|Dining|Branded Chain|Dairy Queen|Discount|Standard|USSD
+179539398|28AUG2018|13:30:06|Dining|Cafe / Restaurant Chain|Subway|Discount|Standard|USSD
+223541628|06AUG2018|19:30:58|Dining|Beverage|Squeeze|Discount|Standard|USSD
+173486682|12AUG2018|14:44:34|Dining|Cafe / Restaurant Chain|Tummour|Discount|Standard|USSD
+175727270|20AUG2018|15:47:49|Dining|Cafe / Restaurant Chain|MK restaurants|Discount|Standard|USSD
+224102867|12AUG2018|14:47:39|Dining|Cafe / Restaurant Chain|McDonald's|Discount|Standard|USSD
+171325370|12AUG2018|17:42:58|Shopping|Department store / Community mall|Tops Market|Discount|Platinum|USSD
+177264109|19AUG2018|11:04:23|Dining|Cafe / Restaurant Chain|McDonald's|Discount|Standard|MBAP
+177264109|06AUG2018|14:50:11|Dining|Beverage|D'Oro|Free|Platinum|MBAP
+159627432|10AUG2018|21:37:51|Online|Online Service & Delivery|Grab|Discount|Standard|USSD
+180907241|26AUG2018|13:28:28|Dining|Cafe / Restaurant Chain|MK restaurants|Discount|Standard|USSD
+189741671|01AUG2018|13:44:42|Dining|Cafe / Restaurant Chain|MK restaurants|Discount|Standard|USSD
+174232279|04AUG2018|14:34:55|Entertainment|Movie / Entertainment|SF Cinema|Discount|Standard|USSD
+161334488|05AUG2018|16:11:48|Dining|Standalone|HEEKCAA|Free|Standard|USSD
+158835434|18AUG2018|11:34:40|Dining|Beverage|D'Oro|Discount|Standard|MBAP
+158835434|14AUG2018|11:57:57|Dining|Beverage|D'Oro|Free|Platinum|MBAP
+166294869|11AUG2018|14:46:35|Entertainment|Movie / Entertainment|SF Cinema|Discount|Platinum|USSD
+165480330|11AUG2018|16:08:00|Entertainment|Movie / Entertainment|SF Cinema|Discount|Standard|USSD
+165480330|13AUG2018|10:13:05|Dining|Standalone|Ploenwan|Discount|Standard|USSD
+168509625|12AUG2018|16:06:43|Dining|Cafe / Restaurant Chain|MK restaurants|Discount|Standard|USSD
+182945731|05AUG2018|13:18:23|Dining|Cafe / Restaurant Chain|The Pizza Company|Discount|Standard|USSD
+158045428|26AUG2018|10:48:44|Entertainment|Movie / Entertainment|Major Cineplex|Discount|Standard|MBAP
+158045428|05AUG2018|11:04:01|Dining|Beverage|Cafe Amazon|Discount|Standard|USSD
+179917959|01AUG2018|13:03:27|Dining|Beverage|D'Oro|Discount|Standard|USSD
+247200430|28AUG2018|15:08:14|Dining|Bakery & Ice Cream|Krispy Kreme|Discount|Gold|USSD
+181083720|20AUG2018|15:32:22|Dining|Branded Chain|Dunkin|Free|Standard|USSD
+169326909|02AUG2018|18:20:02|Entertainment|Movie / Entertainment|Major Cineplex|Discount|Standard|MBAP
+155458099|11AUG2018|11:31:39|Dining|Cafe / Restaurant Chain|McDonald's|Discount|Standard|MBAP
+180986339|18AUG2018|14:23:52|Entertainment|Movie / Entertainment|SF Cinema|Discount|Standard|USSD
+153868769|11AUG2018|18:37:13|Dining|Standalone|WHITE RABBIT SEAFOOD|Discount|Standard|USSD
+167460542|25AUG2018|13:56:59|Dining|Cafe / Restaurant Chain|MK restaurants|Discount|Standard|USSD
+174851950|16AUG2018|18:06:13|Dining|Beverage|Squeeze|Discount|Standard|USSD
+174851950|17AUG2018|17:14:06|Dining|Beverage|D'Oro|Discount|Standard|USSD
+165888524|26AUG2018|20:34:29|Dining|Cafe / Restaurant Chain|Marugame Seimen|Discount|Standard|USSD
+159359291|13AUG2018|15:36:03|Dining|Beverage|Squeeze|Discount|Gold|USSD
+179999208|30AUG2018|16:27:04|Dining|Cafe / Restaurant Chain|Potato Corner|Discount|Standard|USSD
+180592317|20AUG2018|20:09:37|Dining|Beverage|Mezzo|Discount|Standard|USSD
+195602363|07AUG2018|9:35:34|Dining|Cafe / Restaurant Chain|Burger King|Discount|Standard|USSD
+213351715|27AUG2018|18:43:00|Dining|Cafe / Restaurant Chain|MK restaurants|Discount|Standard|USSD
+208411350|18AUG2018|13:31:42|Dining|Beverage|D'Oro|Discount|Standard|USSD
+208411350|03AUG2018|13:57:20|Dining|Beverage|D'Oro|Discount|Standard|USSD
+174348194|23AUG2018|11:36:24|Entertainment|Movie / Entertainment|SF Cinema|Discount|Standard|USSD
+180728080|10AUG2018|17:34:33|Dining|Cafe / Restaurant Chain|Texas Chicken|Discount|Standard|USSD
+178939442|01AUG2018|14:02:37|Entertainment|Movie / Entertainment|SF Cinema|Discount|Standard|MBAP
+152160950|26AUG2018|16:22:26|Entertainment|Movie / Entertainment|Major Cineplex|Discount|Standard|MBAP
+152160950|01AUG2018|19:16:19|Other|Department store / Community mall|EmProium EmQuartier Paragon|Discount|Platinum|USSD
+152160950|04AUG2018|20:50:50|Dining|Beverage|Mezzo|Discount|Standard|USSD
+153447445|09AUG2018|13:03:39|Shopping|Department store / Community mall|Siam future group|Discount|Standard|USSD
+196688039|26AUG2018|11:47:37|Dining|Beverage|Cafe Amazon|Discount|Standard|USSD
+162673928|19AUG2018|8:13:56|Hotel & Travel|Hotel & Resort / Tour Agent|SKOOTAR Discount 20%|Discount|Platinum|USSD
+160953453|04AUG2018|17:40:22|Dining|Beverage|Squeeze|Discount|Standard|USSD
+160953453|03AUG2018|17:30:42|Entertainment|Movie / Entertainment|SF Cinema|Discount|Standard|USSD
+173591918|23AUG2018|16:00:02|Entertainment|Movie / Entertainment|Major Cineplex|Discount|Standard|MBAP
+166716364|20AUG2018|16:19:08|Dining|Beverage|Squeeze|Discount|Gold|USSD
+165624062|01AUG2018|16:39:36|Dining|Beverage|CAFFE MUAN CHON|Discount|Standard|USSD
+164291038|06AUG2018|15:16:26|Dining|Beverage|Squeeze|Discount|Gold|USSD
+156882623|18AUG2018|17:24:32|Dining|Cafe / Restaurant Chain|Swensen|Discount|Standard|MBAP
+180598058|04AUG2018|18:47:01|Dining|Bakery & Ice Cream|AMOR|Discount|Standard|USSD
+163839681|27AUG2018|14:39:05|Dining|Cafe / Restaurant Chain|McDonald's|Discount|Standard|MBAP
+167755330|25AUG2018|20:00:38|Shopping|Department store / Community mall|Tops Market|Discount|Standard|USSD
+174962717|12AUG2018|11:15:59|Other|Other|PA Phone|Discount|Standard|USSD
+174156328|10AUG2018|16:00:05|Entertainment|Movie / Entertainment|SF Cinema|Discount|Standard|USSD
+174561561|31AUG2018|19:02:26|Shopping|Department store / Community mall|Tops Market|Discount|Standard|USSD
+180022598|30AUG2018|10:34:15|Other|Other|DHL|Discount|Standard|USSD
+180375568|02AUG2018|6:59:13|Online|Online Shopping|Looksi|Discount|Standard|USSD
+180375568|02AUG2018|6:58:16|Online|Online Shopping|Looksi|Discount|Standard|USSD
+167045251|11AUG2018|7:43:32|Dining|Cafe / Restaurant Chain|Texas Chicken|Discount|Standard|USSD
+167045251|23AUG2018|13:19:14|Dining|Beverage|D'Oro|Discount|Standard|USSD
+164578554|18AUG2018|10:58:45|Dining|Cafe / Restaurant Chain|The Pizza Company|Discount|Standard|USSD
+159430884|22AUG2018|15:15:44|Dining|Beverage|Mezzo|Free|Standard|USSD
+182727650|18AUG2018|9:29:03|Dining|Cafe / Restaurant Chain|Burger King|Discount|Standard|USSD
+273360718|04AUG2018|16:19:02|Dining|Standalone|JJANG|Discount|Standard|USSD
+182517878|04AUG2018|11:47:53|Dining|Beverage|Cafe Amazon|Discount|Standard|USSD
+157903336|06AUG2018|16:16:40|Dining|Bakery & Ice Cream|Swensen's|Discount|Standard|MBAP
+157903336|01AUG2018|11:05:22|Dining|Cafe / Restaurant Chain|Texas Chicken|Discount|Standard|USSD
+171543754|31AUG2018|12:48:18|Dining|Beverage|D'Oro|Free|Platinum|MBAP
+183567672|04AUG2018|14:44:10|Online|Online Service & Delivery|LINE MAN|Discount|Standard|USSD
+152175224|19AUG2018|14:24:39|Other|Cafe / Restaurant Chain|Coffee World|Discount|Standard|MBAP
+187600463|12AUG2018|15:25:09|Dining|Beverage|D'Oro|Discount|Standard|USSD
+175447932|30AUG2018|17:07:11|Dining|Cafe / Restaurant Chain|The Pizza Company|Discount|Standard|USSD
+183788096|12AUG2018|15:26:39|Shopping|Department store / Community mall|Tops Market|Discount|Standard|USSD
+180525496|12AUG2018|17:59:39|Entertainment|Movie / Entertainment|Major Cineplex|Discount|Standard|MBAP
+180525496|11AUG2018|18:00:26|Dining|Cafe / Restaurant Chain|ZEN Restaurant|Discount|Standard|USSD
+180525496|30AUG2018|14:56:14|Other|Internal reward|FamilyMart|Free|Standard|USSD
+180525496|20AUG2018|17:01:07|Other|Other|Susco|Free|Standard|USSD
+180603340|23AUG2018|15:46:47|Dining|Cafe / Restaurant Chain|AKA|Discount|Gold|USSD
+155346091|06AUG2018|14:09:37|Dining|Branded Chain|Dunkin|Free|Standard|USSD
+155346091|06AUG2018|14:10:24|Dining|Branded Chain|Dunkin|Discount|Gold|USSD
+170596795|07AUG2018|15:04:30|Dining|Beverage|Dean and Deluca|Free|Platinum|MBAP
+182447712|05AUG2018|14:41:56|Dining|Standalone|OKAMI SUSHI|Discount|Standard|USSD
+179645594|24AUG2018|14:27:54|Dining|Beverage|Mezzo|Discount|Standard|USSD
+173503931|19AUG2018|17:22:50|Dining|Bakery & Ice Cream|AMOR|Discount|Standard|USSD
+178619933|19AUG2018|13:48:52|Dining|Bakery & Ice Cream|Swensen's|Discount|Standard|MBAP
+4281164|18AUG2018|19:18:16|Dining|Bakery & Ice Cream|Swensen's|Discount|Standard|MBAP
+4281164|18AUG2018|19:18:05|Dining|Bakery & Ice Cream|Swensen's|Discount|Gold|MBAP
+170662232|02AUG2018|16:36:26|Dining|Branded Chain|Dairy Queen|Discount|Standard|USSD
+170662232|01AUG2018|19:27:50|Dining|Standalone|TAWANDANG GERMAN BREWERY|Discount|Standard|USSD
+180937290|19AUG2018|21:09:31|Dining|Standalone|KIKI-SARU|Discount|Standard|USSD
+167237984|19AUG2018|12:50:55|Dining|Standalone|CHAKANGRAW NOODLES SHOP|Free|Standard|USSD
+163724272|01AUG2018|14:31:54|Entertainment|Movie / Entertainment|Major Cineplex|Discount|Standard|MBAP
+163724272|12AUG2018|10:13:45|Dining|Cafe / Restaurant Chain|Burger King|Discount|Standard|USSD
+163724272|29AUG2018|14:03:02|Dining|Beverage|D'Oro|Discount|Standard|USSD
+157630727|23AUG2018|20:38:16|Dining|Cafe / Restaurant Chain|MK restaurants|Discount|Standard|USSD
+173504141|12AUG2018|12:47:26|Dining|Branded Chain|Dairy Queen|Discount|Standard|USSD
+183781519|22AUG2018|10:41:28|Dining|Cafe / Restaurant Chain|MK restaurants|Discount|Standard|USSD
+278126053|07AUG2018|14:33:50|Other|Cafe / Restaurant Chain|Coffee World|Discount|Standard|MBAP
+174678197|24AUG2018|20:19:24|Dining|Beverage|Cafe Amazon|Discount|Standard|USSD
+189322153|02AUG2018|19:23:53|Dining|Beverage|Squeeze|Discount|Standard|USSD
+189322153|02AUG2018|12:23:45|Dining|Branded Chain|FamilyMart|Discount|Standard|MBAP
+157273332|27AUG2018|16:46:06|Dining|Cafe / Restaurant Chain|Tummour|Discount|Standard|USSD
+181227771|01AUG2018|17:00:01|Other|Department store / Community mall|EmProium EmQuartier Paragon|Discount|Platinum|USSD
+181227771|30AUG2018|20:53:21|Dining|Cafe / Restaurant Chain|ÃÊ¹ÔÂÁ|Free|Standard|MBAP
+158872190|03AUG2018|15:34:22|Shopping|Department store / Community mall|Tops Market|Discount|Platinum|USSD
+158872190|16AUG2018|12:31:10|Dining|Standalone|BANGWAN SWEET STATION|Free|Standard|USSD
+158872190|06AUG2018|19:27:23|Shopping|Department store / Community mall|Tops Market|Discount|Standard|USSD
+158872190|03AUG2018|16:41:15|Dining|Cafe / Restaurant Chain|Tummour|Discount|Standard|USSD
+201564960|19AUG2018|21:04:23|Other|Cafe / Restaurant Chain|Coffee World|Discount|Standard|MBAP
+187942180|26AUG2018|19:23:35|Dining|Bakery & Ice Cream|Baskin|Discount|Gold|USSD
+164403686|06AUG2018|13:20:13|Dining|Beverage|Dean and Deluca|Free|Platinum|USSD
+164403686|16AUG2018|13:47:40|Dining|Cafe / Restaurant Chain|iberry|Free|Platinum|USSD
+176068311|10AUG2018|16:38:25|Dining|Bakery & Ice Cream|Swensen's|Discount|Gold|MBAP
+217731885|10AUG2018|15:47:58|Dining|Branded Chain|Dairy Queen|Discount|Standard|USSD
+184720948|12AUG2018|20:09:12|Dining|Branded Chain|Dairy Queen|Discount|Standard|USSD
+180751881|31AUG2018|18:09:25|Dining|Cafe / Restaurant Chain|Swensen|Discount|Standard|MBAP
+181219603|27AUG2018|10:40:05|Dining|Branded Chain|Dunkin|Free|Standard|USSD
+181219603|27AUG2018|10:42:39|Dining|Cafe / Restaurant Chain|iberry|Free|Platinum|USSD
+179938364|25AUG2018|10:43:32|Dining|Cafe / Restaurant Chain|Burger King|Discount|Standard|USSD
+164906212|12AUG2018|16:00:57|Entertainment|Movie / Entertainment|Major Cineplex|Discount|Standard|MBAP
+178208932|16AUG2018|18:39:39|Dining|Cafe / Restaurant Chain|MamWish|Discount|Standard|USSD
+153518509|18AUG2018|15:44:04|Dining|Bakery & Ice Cream|AMOR|Discount|Standard|USSD
+172561159|02AUG2018|12:28:30|Dining|Beverage|D'Oro|Discount|Standard|USSD
+160584307|06AUG2018|13:39:21|Dining|Branded Chain|Dairy Queen|Discount|Standard|USSD
+156353201|04AUG2018|9:41:03|Dining|Cafe / Restaurant Chain|Burger King|Discount|Standard|USSD
+160027073|06AUG2018|13:37:06|Shopping|Department store / Community mall|Tops Market|Discount|Standard|USSD
+160027073|03AUG2018|10:34:12|Dining|Beverage|D'Oro|Discount|Standard|MBAP
+160027073|02AUG2018|10:50:37|Dining|Beverage|D'Oro|Free|Platinum|MBAP
+182393173|25AUG2018|18:04:22|Dining|Cafe / Restaurant Chain|Swensen|Discount|Standard|MBAP
+171145908|06AUG2018|15:53:14|Dining|Standalone|KENG-TIN|Free|Standard|USSD
+159012531|11AUG2018|14:17:50|Dining|Beverage|D'Oro|Discount|Standard|USSD
+157429353|05AUG2018|17:31:57|Dining|Beverage|Dean and Deluca|Free|Platinum|USSD
+155371288|05AUG2018|11:22:52|Dining|Beverage|Cafe Amazon|Discount|Standard|USSD
+168302384|18AUG2018|10:19:35|Entertainment|Movie / Entertainment|SF Cinema|Discount|Standard|MBAP
+168302384|13AUG2018|20:52:32|Dining|Bakery & Ice Cream|Swensen's|Discount|Standard|MBAP
+164413391|01AUG2018|13:37:13|Dining|Beverage|D'Oro|Discount|Standard|USSD
+263430368|05AUG2018|14:16:38|Dining|Branded Chain|Dairy Queen|Discount|Standard|USSD
+203108512|13AUG2018|12:16:47|Dining|Bakery & Ice Cream|Krispy Kreme|Discount|Gold|USSD
+180846355|19AUG2018|15:12:44|Shopping|Department store / Community mall|Sabina|Discount|Standard|USSD
+190250977|12AUG2018|15:46:47|Dining|Cafe / Restaurant Chain|MK restaurants|Discount|Standard|USSD
+157921768|05AUG2018|15:06:39|Dining|Beverage|Mezzo|Discount|Standard|USSD
+157921768|13AUG2018|12:52:55|Shopping|Department store / Community mall|Big Bad Wolf|Discount|Standard|USSD
+157921768|10AUG2018|19:09:39|Dining|Cafe / Restaurant Chain|McDonald's|Discount|Standard|MBAP
+187697425|05AUG2018|13:15:18|Dining|Beverage|D'Oro|Discount|Standard|USSD
+184535687|10AUG2018|18:34:45|Dining|Cafe / Restaurant Chain|MK restaurants|Discount|Standard|USSD
+208172885|22AUG2018|14:34:06|Dining|Branded Chain|Dairy Queen|Discount|Standard|USSD
+175186079|25AUG2018|17:31:30|Dining|Beverage|D'Oro|Free|Standard|USSD
+168002389|25AUG2018|15:17:29|Dining|Bakery & Ice Cream|Swensen's|Discount|Standard|MBAP
+155375989|08AUG2018|11:34:22|Dining|Bakery & Ice Cream|Swensen's|Discount|Standard|MBAP
+184962755|28AUG2018|20:12:26|Dining|Cafe / Restaurant Chain|Texas Chicken|Discount|Standard|USSD
+230658478|25AUG2018|19:52:20|Entertainment|Movie / Entertainment|SF Cinema|Discount|Standard|MBAP
+230658478|24AUG2018|14:35:44|Dining|Beverage|D'Oro|Discount|Standard|USSD
+187202820|17AUG2018|12:00:55|Dining|Cafe / Restaurant Chain|Tummour|Discount|Standard|USSD
+171357971|03AUG2018|16:12:59|Dining|Cafe / Restaurant Chain|MK restaurants|Discount|Standard|USSD
+227504111|09AUG2018|15:31:46|Dining|Cafe / Restaurant Chain|Potato Corner|Discount|Standard|USSD
+171365514|07AUG2018|13:01:14|Entertainment|Movie / Entertainment|Major Cineplex|Discount|Standard|MBAP
+158548280|26AUG2018|8:54:02|Dining|Beverage|Cafe Amazon|Discount|Standard|USSD
+182873790|20AUG2018|13:39:08|Dining|Beverage|D'Oro|Discount|Standard|USSD
+182873790|13AUG2018|13:32:25|Dining|Beverage|D'Oro|Discount|Standard|USSD
+189527967|14AUG2018|11:14:20|Dining|Cafe / Restaurant Chain|Au bon pain|Discount|Standard|MBAP
+165868041|01AUG2018|19:49:22|Dining|Beverage|Dean and Deluca|Free|Platinum|USSD
+165868041|01AUG2018|21:01:11|Other|Department store / Community mall|EmProium EmQuartier Paragon|Discount|Platinum|USSD
+180704282|12AUG2018|13:54:41|Dining|Cafe / Restaurant Chain|MK restaurants|Discount|Standard|USSD
+153568320|31AUG2018|13:22:10|Dining|Standalone|65 CAFE AND BISTRO|Discount|Standard|USSD
+184242989|11AUG2018|18:37:15|Dining|Cafe / Restaurant Chain|MK restaurants|Discount|Standard|USSD
+188068440|06AUG2018|16:08:41|Dining|Branded Chain|Dunkin|Free|Standard|USSD
+166424675|30AUG2018|18:43:31|Dining|Cafe / Restaurant Chain|Swensen|Discount|Standard|MBAP
+167485051|13AUG2018|16:09:52|Dining|Branded Chain|Dairy Queen|Discount|Standard|USSD
+181664930|18AUG2018|11:58:33|Dining|Cafe / Restaurant Chain|Tummour|Discount|Standard|USSD
+183409479|26AUG2018|11:56:58|Dining|Beverage|Cafe Amazon|Discount|Standard|USSD
+179516712|26AUG2018|13:01:43|Dining|Beverage|Mezzo|Discount|Standard|USSD
+154073834|04AUG2018|17:58:51|Shopping|Department store / Community mall|Tops Market|Discount|Standard|USSD
+217809200|31AUG2018|19:13:03|Dining|Cafe / Restaurant Chain|Potato Corner|Discount|Standard|USSD
+194639335|23AUG2018|18:00:30|Entertainment|Movie / Entertainment|Major Cineplex|Discount|Standard|MBAP
+207573212|25AUG2018|18:33:05|Online|Online Service & Delivery|LINE MAN|Discount|Standard|USSD
+274592912|31AUG2018|13:02:52|Entertainment|Movie / Entertainment|SF Cinema|Discount|Standard|MBAP
+165446132|17AUG2018|18:08:54|Dining|Cafe / Restaurant Chain|McDonald's|Discount|Standard|USSD
+181463408|10AUG2018|17:59:01|Dining|Beverage|D'Oro|Discount|Standard|USSD
+181463408|12AUG2018|11:55:23|Dining|Cafe / Restaurant Chain|MK restaurants|Discount|Standard|USSD
+177961549|05AUG2018|12:24:28|Dining|Standalone|MAEBUNGON RESTAURANT|Discount|Standard|USSD
+164645086|17AUG2018|19:22:43|Dining|Cafe / Restaurant Chain|iberry|Discount|Standard|USSD
+233745679|07AUG2018|12:09:00|Dining|Branded Chain|Dairy Queen|Discount|Standard|USSD
+178229598|06AUG2018|18:03:32|Dining|Beverage|Squeeze|Discount|Standard|USSD
+172572611|08AUG2018|13:58:44|Dining|Beverage|D'Oro|Free|Platinum|USSD
+159119239|26AUG2018|15:52:25|Dining|Cafe / Restaurant Chain|Au bon pain|Discount|Standard|MBAP
+152952571|24AUG2018|23:28:43|Dining|Beverage|Dean and Deluca|Discount|Standard|USSD
+158603027|26AUG2018|17:12:46|Entertainment|Movie / Entertainment|Major Cineplex|Discount|Standard|MBAP
+163105436|08AUG2018|21:25:21|Other|Other|Susco|Discount|Platinum|USSD
+168620558|07AUG2018|17:11:06|Dining|Cafe / Restaurant Chain|Burger King|Discount|Standard|MBAP
+181133328|01AUG2018|10:21:37|Other|Department store / Community mall|EmProium EmQuartier Paragon|Discount|Platinum|USSD
+181133328|12AUG2018|15:07:13|Other|Department store / Community mall|BTS|Discount|Standard|USSD
+154512197|09AUG2018|19:56:21|Entertainment|Movie / Entertainment|SF Cinema|Discount|Standard|USSD
+154512197|18AUG2018|8:24:09|Dining|Beverage|Cafe Amazon|Discount|Standard|USSD
+173191464|04AUG2018|17:51:06|Dining|Bakery & Ice Cream|Swensen's|Discount|Standard|MBAP
+185023394|05AUG2018|13:56:22|Other|Department store / Community mall|BTS|Discount|Standard|USSD
+185023394|28AUG2018|17:56:43|Dining|Cafe / Restaurant Chain|phoenix lava|Discount|Standard|USSD
+158096423|05AUG2018|14:26:47|Dining|Beverage|D'Oro|Discount|Standard|USSD
+175665028|03AUG2018|9:07:19|Dining|Cafe / Restaurant Chain|Burger King|Discount|Standard|USSD
+181466917|24AUG2018|12:45:23|Dining|Cafe / Restaurant Chain|Au bon pain|Discount|Standard|MBAP
+168563985|24AUG2018|17:55:43|Dining|Beverage|D'Oro|Discount|Standard|USSD
+168563985|27AUG2018|15:10:56|Dining|Beverage|D'Oro|Free|Platinum|MBAP
+181376657|19AUG2018|18:09:27|Education & Sports|Education / Sports|SE-ED Book Center|Discount|Standard|USSD
+154092863|14AUG2018|19:20:21|Dining|Cafe / Restaurant Chain|MK restaurants|Discount|Standard|USSD
+174109017|26AUG2018|11:16:17|Dining|Beverage|Cafe Amazon|Discount|Standard|USSD
+180711635|09AUG2018|11:32:12|Dining|Cafe / Restaurant Chain|Au bon pain|Discount|Standard|USSD
+180416092|06AUG2018|13:30:13|Dining|Beverage|D'Oro|Discount|Standard|USSD
+165889078|31AUG2018|16:08:39|Dining|Cafe / Restaurant Chain|McDonald's|Discount|Standard|MBAP
+180424811|04AUG2018|20:01:40|Dining|Cafe / Restaurant Chain|MK restaurants|Discount|Standard|USSD
+171275255|18AUG2018|9:27:24|Entertainment|Movie / Entertainment|SF Cinema|Discount|Standard|MBAP
+172044054|28AUG2018|14:10:13|Dining|Standalone|Bench and Bar|Discount|Standard|USSD
+180969186|17AUG2018|18:14:18|Dining|Cafe / Restaurant Chain|McDonald's|Discount|Standard|USSD
+158607347|18AUG2018|20:25:16|Dining|Cafe / Restaurant Chain|ZEN Restaurant|Discount|Standard|USSD
+255094610|26AUG2018|7:36:39|Dining|Beverage|Cafe Amazon|Discount|Standard|USSD
+255094610|12AUG2018|7:49:42|Dining|Beverage|Cafe Amazon|Discount|Standard|USSD
+255094610|01AUG2018|12:35:44|Other|Department store / Community mall|EmProium EmQuartier Paragon|Discount|Platinum|USSD
+255094610|02AUG2018|13:09:52|Entertainment|Movie / Entertainment|SF Cinema|Discount|Platinum|USSD
+170279036|03AUG2018|10:45:25|Entertainment|Movie / Entertainment|Major Cineplex|Discount|Standard|MBAP
+250159542|04AUG2018|12:46:59|Entertainment|Movie / Entertainment|SF Cinema|Discount|Standard|USSD
+226110375|17AUG2018|15:54:11|Dining|Cafe / Restaurant Chain|Swensen|Discount|Standard|MBAP
+155258571|13AUG2018|17:53:04|Dining|Cafe / Restaurant Chain|MK restaurants|Discount|Standard|USSD
+154527604|07AUG2018|14:20:29|Dining|Standalone|Stanee Tiew Poonim|Discount|Standard|USSD
+166147639|24AUG2018|13:39:11|Dining|Beverage|D'Oro|Free|Standard|USSD
+166744452|29AUG2018|20:12:31|Dining|Cafe / Restaurant Chain|Potato Corner|Discount|Standard|USSD
+179692165|25AUG2018|17:29:04|Entertainment|Movie / Entertainment|Major Cineplex|Discount|Standard|MBAP
+167518804|01AUG2018|21:20:55|Dining|Bakery & Ice Cream|Krispy Kreme|Discount|Gold|USSD
+181557881|11AUG2018|17:13:21|Dining|Cafe / Restaurant Chain|McDonald's|Discount|Standard|MBAP
+154519690|05AUG2018|13:02:29|Dining|Cafe / Restaurant Chain|ZEN Restaurant|Discount|Standard|USSD
+183820285|30AUG2018|12:33:06|Entertainment|Movie / Entertainment|SF Cinema|Discount|Standard|USSD
+168333838|18AUG2018|19:45:30|Dining|Cafe / Restaurant Chain|AKA|Discount|Gold|USSD
+154316504|01AUG2018|15:20:35|Other|Department store / Community mall|EmProium EmQuartier Paragon|Discount|Platinum|USSD
+184559926|04AUG2018|20:30:19|Dining|Bakery & Ice Cream|Swensen's|Discount|Standard|MBAP
+166330372|11AUG2018|12:50:19|Dining|Cafe / Restaurant Chain|ZEN Restaurant|Discount|Standard|USSD
+166330372|19AUG2018|13:48:55|Dining|Beverage|D'Oro|Discount|Standard|USSD
+166330372|20AUG2018|17:42:21|Dining|Branded Chain|Dunkin|Free|Standard|USSD
+166330372|20AUG2018|17:41:45|Dining|Branded Chain|Dunkin|Discount|Gold|USSD
+166330372|06AUG2018|11:37:14|Dining|Beverage|Pearly Tea|Discount|Standard|USSD
+166330372|28AUG2018|17:17:48|Dining|Cafe / Restaurant Chain|Tummour|Discount|Standard|USSD
+242144948|12AUG2018|11:39:44|Dining|Cafe / Restaurant Chain|Marugame Seimen|Discount|Standard|USSD
+151539252|06AUG2018|15:42:17|Dining|Beverage|D'Oro|Discount|Standard|USSD
+166949994|13AUG2018|15:40:37|Dining|Branded Chain|Dairy Queen|Discount|Standard|USSD
+166949994|19AUG2018|19:50:23|Dining|Branded Chain|Kyochon|Discount|Standard|USSD
+183818835|20AUG2018|18:45:06|Dining|Beverage|Squeeze|Discount|Standard|USSD
+165475829|13AUG2018|12:47:44|Dining|Beverage|Cafe Amazon|Discount|Standard|USSD
+163895018|25AUG2018|12:39:52|Dining|Beverage|Cafe Amazon|Discount|Standard|USSD
+153984298|07AUG2018|18:11:02|Dining|Cafe / Restaurant Chain|AKA|Discount|Gold|USSD
+183364180|02AUG2018|16:31:14|Dining|Bakery & Ice Cream|Swensen's|Discount|Standard|MBAP
+183364180|07AUG2018|15:25:09|Dining|Bakery & Ice Cream|Swensen's|Discount|Gold|MBAP
+159442565|24AUG2018|17:36:04|Dining|Bakery & Ice Cream|Swensen's|Discount|Standard|MBAP
+166493050|11AUG2018|9:29:51|Dining|Cafe / Restaurant Chain|Burger King|Discount|Standard|USSD
+169496720|05AUG2018|17:05:47|Dining|Beverage|D'Oro|Discount|Standard|USSD
+197310879|17AUG2018|17:17:21|Entertainment|Movie / Entertainment|SF Cinema|Discount|Standard|USSD
+153934048|24AUG2018|20:29:48|Dining|Bakery & Ice Cream|Baskin|Discount|Gold|USSD
+179482483|11AUG2018|19:15:11|Entertainment|Movie / Entertainment|Major Cineplex|Discount|Standard|MBAP
+181383047|27AUG2018|13:11:56|Dining|Branded Chain|Dunkin|Free|Standard|MBAP
+181383047|03AUG2018|7:42:54|Dining|Beverage|Mezzo|Discount|Standard|MBAP
+183843716|07AUG2018|8:26:07|Dining|Beverage|Mezzo|Free|Standard|USSD
+158475535|25AUG2018|12:25:09|Dining|Beverage|D'Oro|Discount|Standard|USSD
+174816029|26AUG2018|19:59:54|Dining|Cafe / Restaurant Chain|MK restaurants|Discount|Standard|USSD
+169238003|18AUG2018|12:47:36|Dining|Cafe / Restaurant Chain|ZEN Restaurant|Discount|Standard|USSD
+195817196|29AUG2018|19:07:07|Dining|Standalone|SAO MAI|Free|Standard|USSD
+251375347|13AUG2018|15:24:37|Other|Other|DHL|Discount|Standard|USSD
+172336631|19AUG2018|15:21:29|Dining|Cafe / Restaurant Chain|MK restaurants|Discount|Standard|USSD
+191314086|20AUG2018|11:55:49|Dining|Cafe / Restaurant Chain|Tummour|Discount|Standard|USSD
+179991108|04AUG2018|16:10:01|Dining|Cafe / Restaurant Chain|Gindaco|Discount|Standard|USSD
+151294475|06AUG2018|13:45:56|Dining|Beverage|D'Oro|Free|Platinum|USSD
+151294475|15AUG2018|14:02:15|Dining|Cafe / Restaurant Chain|iberry|Free|Platinum|USSD
+166785855|29AUG2018|16:13:37|Other|Other|Susco|Discount|Platinum|USSD
+151738169|05AUG2018|13:57:43|Shopping|Department store / Community mall|Tops Market|Discount|Standard|USSD
+191039676|07AUG2018|16:06:50|Dining|Cafe / Restaurant Chain|McDonald's|Discount|Standard|USSD
+162752079|22AUG2018|20:30:25|Dining|Bakery & Ice Cream|Baskin|Discount|Gold|USSD
+154363973|13AUG2018|16:21:28|Dining|Beverage|D'Oro|Discount|Standard|USSD
+232737905|13AUG2018|11:38:56|Dining|Cafe / Restaurant Chain|Texas Chicken|Discount|Standard|USSD
+229756953|05AUG2018|11:30:35|Other|Department store / Community mall|BTS|Discount|Standard|USSD
+229480169|23AUG2018|12:57:28|Dining|Bakery & Ice Cream|Swensen's|Discount|Standard|MBAP
+232375451|11AUG2018|10:06:59|Dining|Beverage|D'Oro|Free|Standard|USSD
+232375451|11AUG2018|10:07:43|Dining|Beverage|D'Oro|Discount|Standard|USSD
+229930644|04AUG2018|7:50:29|Dining|Beverage|Cafe Amazon|Discount|Standard|USSD
+232737822|31AUG2018|10:23:53|Dining|Cafe / Restaurant Chain|Burger King|Discount|Standard|USSD
+232737865|10AUG2018|14:44:11|Dining|Cafe / Restaurant Chain|Koi The|Discount|Standard|MBAP
+229930769|19AUG2018|17:47:36|Shopping|Department store / Community mall|Tops Market|Discount|Standard|USSD
+229930746|18AUG2018|19:26:26|Shopping|Department store / Community mall|Tops Market|Discount|Platinum|USSD
+229930746|18AUG2018|19:27:01|Shopping|Department store / Community mall|Tops Market|Discount|Standard|USSD
+229930578|05AUG2018|15:39:19|Entertainment|Movie / Entertainment|Major Cineplex|Discount|Standard|MBAP
+229930578|09AUG2018|12:31:31|Dining|Standalone|The Waffle|Discount|Standard|USSD
+173310246|13AUG2018|11:54:10|Dining|Cafe / Restaurant Chain|MK restaurants|Discount|Standard|USSD
+176140270|17AUG2018|12:25:01|Dining|Beverage|CAFFE MUAN CHON|Discount|Standard|USSD
+230281542|24AUG2018|12:24:48|Dining|Beverage|Cafe Amazon|Discount|Standard|USSD
+154677737|04AUG2018|13:07:38|Dining|Branded Chain|FamilyMart|Discount|Standard|MBAP
+153965169|13AUG2018|10:59:55|Dining|Standalone|KRUA PEE NUN|Free|Standard|USSD
+161993691|27AUG2018|13:22:50|Other|Other|Susco|Discount|Platinum|USSD
+183753069|12AUG2018|11:14:48|Dining|Beverage|Pearly Tea|Discount|Standard|USSD
+181594008|28AUG2018|19:45:06|Dining|Beverage|Squeeze|Discount|Standard|USSD
+190123652|10AUG2018|17:14:59|Dining|Standalone|SAVY RESTAURANT|Discount|Standard|USSD
+166505740|06AUG2018|9:39:07|Dining|Beverage|Dean and Deluca|Free|Platinum|MBAP
+248643532|31AUG2018|12:48:32|Dining|Beverage|Cafe Amazon|Discount|Standard|USSD
+248643532|29AUG2018|12:00:44|Dining|Beverage|D'Oro|Free|Platinum|MBAP
+181733685|11AUG2018|10:32:15|Dining|Cafe / Restaurant Chain|Burger King|Discount|Standard|USSD
+173676033|12AUG2018|14:31:35|Dining|Bakery & Ice Cream|AMOR|Discount|Standard|USSD
+152432360|24AUG2018|20:10:11|Entertainment|Movie / Entertainment|Major Cineplex|Discount|Standard|MBAP
+172920818|26AUG2018|17:37:47|Shopping|Department store / Community mall|Tops Market|Discount|Standard|MBAP
+171302571|25AUG2018|16:54:23|Dining|Branded Chain|Dairy Queen|Discount|Standard|USSD
+165991256|12AUG2018|12:08:23|Dining|Cafe / Restaurant Chain|MK restaurants|Discount|Standard|USSD
+178395109|18AUG2018|16:43:05|Dining|Cafe / Restaurant Chain|The Pizza Company|Discount|Standard|USSD
+178395109|16AUG2018|18:48:06|Dining|Cafe / Restaurant Chain|McDonald's|Discount|Standard|MBAP
+174034778|13AUG2018|20:28:20|Dining|Cafe / Restaurant Chain|MK restaurants|Discount|Standard|USSD
+169306785|10AUG2018|13:50:40|Other|Cafe / Restaurant Chain|Coffee World|Discount|Standard|MBAP
+169956354|24AUG2018|18:44:00|Dining|Beverage|D'Oro|Discount|Standard|USSD
+157685058|15AUG2018|16:27:17|Other|Other|Susco|Free|Standard|USSD
+175238988|31AUG2018|18:02:32|Dining|Cafe / Restaurant Chain|iberry|Free|Platinum|USSD
+241802656|12AUG2018|12:13:02|Dining|Cafe / Restaurant Chain|The Pizza Company|Discount|Standard|USSD
+181079589|02AUG2018|17:04:50|Dining|Cafe / Restaurant Chain|iberry|Free|Platinum|USSD
+167314591|19AUG2018|12:37:58|Dining|Beverage|Squeeze|Discount|Standard|USSD
+177139799|27AUG2018|18:59:28|Dining|Cafe / Restaurant Chain|ZEN Restaurant|Discount|Standard|USSD
+176434605|04AUG2018|12:26:33|Dining|Branded Chain|Dairy Queen|Discount|Standard|USSD
+177356070|31AUG2018|11:20:33|Dining|Beverage|Cafe Amazon|Discount|Standard|USSD
+185135418|21AUG2018|14:05:25|Other|Internal reward|Chester's|Discount|Standard|USSD
+167149854|03AUG2018|16:33:08|Other|Cafe / Restaurant Chain|Coffee World|Discount|Standard|MBAP
+174650944|27AUG2018|12:17:38|Dining|Cafe / Restaurant Chain|MK restaurants|Discount|Standard|USSD
+182386244|11AUG2018|9:14:22|Dining|Cafe / Restaurant Chain|Burger King|Discount|Standard|USSD
+242759174|21AUG2018|18:49:34|Other|Other|Susco|Discount|Platinum|USSD
+180025839|22AUG2018|16:37:03|Other|Internal reward|Idin Beauty & Spa|Discount|Standard|USSD
+180025839|04AUG2018|13:14:12|Dining|Cafe / Restaurant Chain|Gindaco|Discount|Standard|USSD
+169262493|25AUG2018|14:44:43|Dining|Bakery & Ice Cream|Baskin|Discount|Gold|USSD
+164691697|18AUG2018|7:35:58|Dining|Beverage|CAFFE MUAN CHON|Discount|Standard|USSD
+164691697|04AUG2018|12:22:50|Dining|Beverage|CAFFE MUAN CHON|Discount|Standard|USSD
+164691697|24AUG2018|13:16:01|Dining|Beverage|D'Oro|Discount|Standard|USSD
+158206052|02AUG2018|12:18:19|Dining|Beverage|Dean and Deluca|Free|Platinum|USSD
+158206052|02AUG2018|20:11:09|Other|Department store / Community mall|EmProium EmQuartier Paragon|Discount|Platinum|USSD
+175922799|10AUG2018|17:26:12|Dining|Cafe / Restaurant Chain|Texas Chicken|Discount|Standard|USSD
+153783368|05AUG2018|16:30:16|Entertainment|Movie / Entertainment|Major Cineplex|Discount|Standard|MBAP
+153783368|25AUG2018|14:03:01|Entertainment|Movie / Entertainment|Major Cineplex|Discount|Standard|MBAP
+177209617|24AUG2018|13:13:50|Dining|Beverage|D'Oro|Discount|Standard|USSD
+174955402|05AUG2018|10:21:51|Dining|Cafe / Restaurant Chain|Burger King|Discount|Standard|USSD
+169624193|24AUG2018|13:33:14|Dining|Branded Chain|Dairy Queen|Discount|Standard|USSD
+153008106|30AUG2018|19:05:39|Dining|Cafe / Restaurant Chain|Potato Corner|Discount|Standard|USSD
+219863348|11AUG2018|18:21:29|Dining|Bakery & Ice Cream|Swensen's|Discount|Gold|MBAP
+180028737|19AUG2018|5:52:19|Dining|Beverage|Mezzo|Discount|Standard|USSD
+174338516|12AUG2018|15:26:54|Dining|Branded Chain|Dairy Queen|Discount|Standard|USSD
+236627004|24AUG2018|13:16:20|Dining|Beverage|D'Oro|Discount|Standard|USSD
+236627004|02AUG2018|13:43:52|Dining|Beverage|D'Oro|Free|Platinum|USSD
+236627004|07AUG2018|13:37:23|Dining|Beverage|Dean and Deluca|Free|Platinum|MBAP
+175929835|12AUG2018|14:04:49|Other|Cafe / Restaurant Chain|Coffee World|Discount|Standard|MBAP
+175929835|29AUG2018|19:58:58|Dining|Cafe / Restaurant Chain|C.O.D.E|Free|Standard|USSD
+163856420|14AUG2018|20:39:23|Dining|Cafe / Restaurant Chain|McDonald's|Discount|Standard|MBAP
+165357748|17AUG2018|13:33:45|Shopping|Department store / Community mall|Tops Market|Discount|Standard|USSD
+167237035|08AUG2018|20:59:02|Dining|Standalone|RA ROENG BOILED RICE|Discount|Standard|USSD
+152502515|18AUG2018|15:28:58|Dining|Cafe / Restaurant Chain|McDonald's|Discount|Standard|MBAP
+180108859|14AUG2018|12:55:38|Dining|Beverage|Mezzo|Discount|Standard|MBAP
+163337016|06AUG2018|16:35:59|Dining|Beverage|D'Oro|Discount|Standard|USSD
+158159756|27AUG2018|17:19:42|Dining|Beverage|Squeeze|Discount|Standard|USSD
+172538544|07AUG2018|11:31:11|Dining|Cafe / Restaurant Chain|Texas Chicken|Discount|Standard|USSD
+181197863|12AUG2018|16:23:13|Other|Department store / Community mall|BTS|Discount|Standard|USSD
+162237362|08AUG2018|13:04:37|Dining|Bakery & Ice Cream|Swensen's|Discount|Gold|MBAP
+176885061|11AUG2018|18:47:16|Dining|Standalone|TAWANDANG GERMAN BREWERY|Discount|Standard|USSD
+169641986|13AUG2018|12:43:10|Other|Internal reward|FamilyMart|Free|Standard|USSD
+206725258|06AUG2018|15:12:47|Dining|Beverage|D'Oro|Discount|Standard|USSD
+154247049|18AUG2018|19:47:30|Dining|Cafe / Restaurant Chain|Texas Chicken|Discount|Standard|USSD
+153416054|04AUG2018|19:47:14|Dining|Cafe / Restaurant Chain|On The Table|Discount|Standard|USSD
+176560882|04AUG2018|20:30:42|Shopping|Department store / Community mall|Tops Market|Discount|Platinum|USSD
+222830018|17AUG2018|11:45:12|Dining|Beverage|Cafe Amazon|Discount|Standard|USSD
+151656930|09AUG2018|13:57:55|Dining|Branded Chain|Dairy Queen|Discount|Standard|USSD
+243000023|12AUG2018|14:37:50|Dining|Beverage|D'Oro|Discount|Standard|USSD
+151333238|17AUG2018|18:48:58|Dining|Cafe / Restaurant Chain|McDonald's|Discount|Standard|MBAP
+151333238|02AUG2018|19:06:02|Dining|Cafe / Restaurant Chain|Burger King|Discount|Standard|MBAP
+192242074|11AUG2018|17:53:02|Dining|Cafe / Restaurant Chain|MK restaurants|Discount|Standard|USSD
+182891581|18AUG2018|15:09:28|Dining|Cafe / Restaurant Chain|Swensen|Discount|Standard|MBAP
+182891581|18AUG2018|15:59:02|Shopping|Department store / Community mall|Tops Market|Discount|Standard|USSD
+165727311|06AUG2018|16:41:58|Shopping|Department store / Community mall|Tops Market|Discount|Platinum|USSD
+187973918|27AUG2018|9:18:20|Dining|Branded Chain|Dunkin|Free|Standard|MBAP
+244692448|26AUG2018|16:24:14|Shopping|Department store / Community mall|Tops Market|Discount|Standard|USSD
+157842798|22AUG2018|15:38:48|Dining|Cafe / Restaurant Chain|Au bon pain|Discount|Standard|MBAP
+157842798|17AUG2018|20:09:57|Other|Department store / Community mall|BTS|Discount|Standard|USSD
+157842798|07AUG2018|9:52:43|Online|Online Service & Delivery|Skootar|Free|Platinum|USSD
+203343286|12AUG2018|16:23:42|Dining|Beverage|D'Oro|Discount|Standard|USSD
+275069940|10AUG2018|9:36:39|Dining|Cafe / Restaurant Chain|Burger King|Discount|Standard|USSD
+159922484|31AUG2018|20:57:11|Dining|Cafe / Restaurant Chain|Swensen|Discount|Standard|MBAP
+171647474|23AUG2018|19:22:45|Dining|Cafe / Restaurant Chain|MK restaurants|Discount|Standard|USSD
+180848729|05AUG2018|16:49:18|Dining|Bakery & Ice Cream|Krispy Kreme|Discount|Gold|USSD
+272263580|19AUG2018|22:30:26|Dining|Beverage|Cafe Amazon|Discount|Standard|USSD
+181750628|31AUG2018|17:25:53|Dining|Beverage|D'Oro|Discount|Standard|USSD
+184607304|03AUG2018|8:50:13|Other|Department store / Community mall|BTS|Discount|Standard|USSD
+156020711|11AUG2018|12:48:50|Dining|Beverage|Cafe Amazon|Discount|Standard|USSD
+157842358|22AUG2018|12:28:09|Dining|Cafe / Restaurant Chain|Tummour|Discount|Standard|USSD
+165175397|07AUG2018|9:58:17|Dining|Cafe / Restaurant Chain|Burger King|Discount|Standard|USSD
+177592577|25AUG2018|16:19:30|Dining|Bakery & Ice Cream|Swensen's|Discount|Standard|MBAP
+177592577|13AUG2018|11:07:38|Entertainment|Movie / Entertainment|SF Cinema|Discount|Platinum|MBAP
+180919501|05AUG2018|15:55:01|Dining|Cafe / Restaurant Chain|MK restaurants|Discount|Standard|USSD
+170215878|19AUG2018|7:33:08|Dining|Beverage|Cafe Amazon|Discount|Standard|USSD
+181039078|01AUG2018|14:30:39|Dining|Beverage|D'Oro|Discount|Standard|USSD
+181039078|04AUG2018|20:14:41|Dining|Cafe / Restaurant Chain|Texas Chicken|Discount|Standard|USSD
+183070691|03AUG2018|18:36:08|Dining|Cafe / Restaurant Chain|ZEN Restaurant|Discount|Standard|USSD
+180124068|03AUG2018|19:29:04|Shopping|Department store / Community mall|Tops Market|Discount|Standard|USSD
+180124068|09AUG2018|18:27:26|Dining|Bakery & Ice Cream|Swensen's|Discount|Standard|MBAP
+170704400|01AUG2018|10:47:44|Dining|Cafe / Restaurant Chain|Burger King|Discount|Standard|USSD
+170704400|13AUG2018|11:22:56|Dining|Beverage|D'Oro|Free|Platinum|USSD
+213819094|13AUG2018|18:12:03|Dining|Cafe / Restaurant Chain|MK restaurants|Discount|Standard|USSD
+213819094|26AUG2018|9:19:34|Dining|Beverage|D'Oro|Free|Standard|USSD
+183673425|06AUG2018|19:10:44|Dining|Cafe / Restaurant Chain|MK restaurants|Discount|Standard|USSD
+173503209|23AUG2018|17:11:56|Dining|Bakery & Ice Cream|Swensen's|Discount|Gold|MBAP
+224501883|31AUG2018|18:59:39|Shopping|Department store / Community mall|Tops Market|Discount|Platinum|USSD
+153641285|24AUG2018|19:00:14|Dining|Beverage|D'Oro|Discount|Standard|USSD
+153641285|31AUG2018|20:54:05|Dining|Beverage|Sharetea|Discount|Standard|USSD
+174256938|03AUG2018|14:37:06|Dining|Beverage|D'Oro|Discount|Standard|USSD
+174256938|18AUG2018|11:10:22|Dining|Beverage|Cafe Amazon|Discount|Standard|USSD
+179967683|28AUG2018|18:30:05|Dining|Standalone|LOUDER CAFE HEALTH AND CUISINE|Discount|Standard|USSD
+228824579|12AUG2018|18:22:14|Dining|Cafe / Restaurant Chain|Gindaco|Discount|Standard|USSD
+215527078|28AUG2018|19:11:11|Dining|Cafe / Restaurant Chain|Texas Chicken|Discount|Standard|USSD
+181119634|21AUG2018|17:36:27|Dining|Standalone|IM AROI CHAINAT|Discount|Standard|USSD
+174980646|19AUG2018|19:13:43|Dining|Cafe / Restaurant Chain|MK restaurants|Discount|Standard|USSD
+166974315|19AUG2018|20:59:35|Dining|Cafe / Restaurant Chain|Swensen|Discount|Standard|MBAP
+164411469|11AUG2018|16:28:28|Shopping|Department store / Community mall|Tops Market|Discount|Standard|USSD
+164411469|06AUG2018|18:07:06|Dining|Cafe / Restaurant Chain|McDonald's|Discount|Standard|USSD
+164411469|10AUG2018|17:54:51|Dining|Cafe / Restaurant Chain|Potato Corner|Discount|Standard|USSD
+213499168|12AUG2018|13:58:28|Shopping|Department store / Community mall|Tops Market|Discount|Platinum|USSD
+213499168|26AUG2018|16:03:42|Shopping|Department store / Community mall|Tops Market|Discount|Standard|USSD
+181426672|24AUG2018|11:39:45|Dining|Cafe / Restaurant Chain|Potato Corner|Discount|Standard|USSD
+174164118|26AUG2018|12:35:19|Dining|Beverage|Cafe Amazon|Discount|Standard|USSD
+174164118|25AUG2018|10:40:33|Dining|Cafe / Restaurant Chain|Burger King|Discount|Standard|USSD
+183792874|21AUG2018|12:17:06|Dining|Bakery & Ice Cream|Swensen's|Discount|Gold|MBAP
+180437906|29AUG2018|22:14:20|Dining|Bakery & Ice Cream|Swensen's|Discount|Standard|MBAP
+228942401|01AUG2018|12:50:07|Other|Department store / Community mall|EmProium EmQuartier Paragon|Discount|Platinum|USSD
+170152466|12AUG2018|11:08:20|Dining|Beverage|Cafe Amazon|Discount|Standard|USSD
+175750872|19AUG2018|14:34:29|Dining|Bakery & Ice Cream|Swensen's|Discount|Gold|MBAP
+151131512|26AUG2018|18:54:11|Dining|Beverage|Squeeze|Discount|Standard|USSD
+181555402|13AUG2018|13:23:47|Dining|Beverage|D'Oro|Discount|Standard|USSD
+181732916|18AUG2018|16:38:44|Dining|Cafe / Restaurant Chain|McDonald's|Discount|Standard|USSD
+169561141|19AUG2018|20:08:18|Dining|Cafe / Restaurant Chain|Swensen|Discount|Standard|MBAP
+169561141|20AUG2018|16:46:35|Entertainment|Movie / Entertainment|SF Cinema|Discount|Standard|USSD
+178754697|26AUG2018|18:38:15|Shopping|Department store / Community mall|Tops Market|Discount|Standard|USSD
+181208900|03AUG2018|12:15:05|Dining|Bakery & Ice Cream|Swensen's|Discount|Standard|MBAP
+154171818|25AUG2018|20:30:25|Shopping|Department store / Community mall|Tops Market|Discount|Standard|USSD
+158022974|12AUG2018|16:04:19|Dining|Branded Chain|Dairy Queen|Discount|Standard|USSD
+161467179|20AUG2018|6:18:35|Dining|Beverage|CAFFE MUAN CHON|Discount|Standard|USSD
+168409025|12AUG2018|20:08:52|Dining|Branded Chain|Dairy Queen|Discount|Standard|USSD
+181547008|12AUG2018|13:02:08|Dining|Beverage|D'Oro|Discount|Standard|USSD
+165130338|19AUG2018|17:07:39|Dining|Cafe / Restaurant Chain|MK restaurants|Discount|Standard|USSD
+175755481|31AUG2018|15:18:26|Dining|Beverage|D'Oro|Discount|Standard|USSD
+153628199|04AUG2018|13:11:04|Dining|Cafe / Restaurant Chain|AKA|Discount|Gold|USSD
+153628199|11AUG2018|14:53:28|Dining|Cafe / Restaurant Chain|Au bon pain|Discount|Standard|USSD
+281444406|28AUG2018|13:06:24|Dining|Beverage|Pearly Tea|Discount|Standard|USSD
+185514321|12AUG2018|17:12:04|Other|Other|Skechers|Discount|Standard|USSD
+180375274|26AUG2018|16:05:08|Dining|Bakery & Ice Cream|Baskin|Discount|Gold|USSD
+179542309|22AUG2018|19:44:33|Other|Other|Skechers|Discount|Standard|USSD
+179542309|17AUG2018|10:29:54|Dining|Cafe / Restaurant Chain|Burger King|Discount|Standard|USSD
+183918908|18AUG2018|15:20:43|Dining|Beverage|D'Oro|Discount|Standard|USSD
+180067638|23AUG2018|8:49:35|Dining|Beverage|D'Oro|Discount|Standard|USSD
+167871151|11AUG2018|13:50:00|Dining|Beverage|D'Oro|Discount|Standard|USSD
+259504142|16AUG2018|13:05:39|Dining|Cafe / Restaurant Chain|The Coffee Club|Discount|Platinum|USSD
+223741990|18AUG2018|19:12:45|Dining|Standalone|JENGOR'S KITCHEN|Discount|Standard|USSD
+161488476|02AUG2018|17:03:31|Dining|Cafe / Restaurant Chain|Au bon pain|Discount|Standard|MBAP
+187684944|09AUG2018|8:56:05|Dining|Cafe / Restaurant Chain|Au bon pain|Discount|Standard|MBAP
+181068694|16AUG2018|20:46:07|Dining|Branded Chain|àÅè§¡Õè|Discount|Standard|USSD
+166841201|05AUG2018|19:20:14|Other|Department store / Community mall|BTS|Discount|Standard|USSD
+183906885|20AUG2018|14:01:16|Other|Internal reward|Krispy Kreme|Discount|Standard|USSD
+195584734|20AUG2018|19:51:01|Dining|Beverage|Squeeze|Discount|Standard|USSD
+201630440|26AUG2018|13:37:32|Dining|Standalone|HELLO YOGURT|Discount|Standard|USSD
+172673534|11AUG2018|13:12:25|Dining|Cafe / Restaurant Chain|iberry|Free|Platinum|USSD
+179971975|05AUG2018|15:06:46|Dining|Bakery & Ice Cream|Swensen's|Discount|Gold|MBAP
+180441634|27AUG2018|11:48:45|Dining|Branded Chain|Dunkin|Free|Standard|USSD
+180441634|16AUG2018|11:43:51|Dining|Beverage|Pearly Tea|Discount|Standard|USSD
+166466671|04AUG2018|15:22:21|Dining|Cafe / Restaurant Chain|iberry|Free|Platinum|USSD
+175412979|05AUG2018|17:37:26|Other|Department store / Community mall|BTS|Discount|Standard|USSD
+167580652|29AUG2018|18:00:59|Dining|Standalone|THE OASIS ISLAM RESTAURANT|Discount|Standard|USSD
+158122265|24AUG2018|14:38:32|Dining|Bakery & Ice Cream|Swensen's|Discount|Standard|MBAP
+166847939|16AUG2018|20:37:40|Dining|Bakery & Ice Cream|AMOR|Discount|Standard|USSD
+167038420|06AUG2018|12:37:54|Dining|Beverage|Cafe Amazon|Discount|Standard|USSD
+167038420|20AUG2018|13:50:38|Beauty & Healthy|Hospital / Spa / Wellness|Nasha Spa & Beauty|Discount|Standard|USSD
+176991039|19AUG2018|17:06:09|Dining|Beverage|Pearly Tea|Discount|Standard|USSD
+167902512|12AUG2018|17:01:49|Dining|Beverage|Squeeze|Discount|Standard|USSD
+166300986|13AUG2018|17:53:50|Dining|Bakery & Ice Cream|Krispy Kreme|Discount|Gold|USSD
+166300986|15AUG2018|19:43:20|Dining|Cafe / Restaurant Chain|phoenix lava|Discount|Standard|USSD
+179367269|16AUG2018|17:32:05|Dining|Cafe / Restaurant Chain|On The Table|Discount|Standard|USSD
+183156435|26AUG2018|15:21:38|Dining|Cafe / Restaurant Chain|MK restaurants|Discount|Standard|USSD
+176498162|29AUG2018|10:09:43|Dining|Standalone|GRAND COFFEE BOY|Free|Standard|USSD
+182203155|04AUG2018|10:23:11|Dining|Beverage|Dean and Deluca|Free|Platinum|USSD
+182203155|16AUG2018|20:46:40|Dining|Cafe / Restaurant Chain|iberry|Free|Platinum|USSD
+184171153|01AUG2018|17:15:05|Dining|Beverage|D'Oro|Discount|Standard|USSD
+157554029|20AUG2018|13:39:06|Dining|Cafe / Restaurant Chain|Swensen|Discount|Standard|MBAP
+157554029|22AUG2018|13:21:55|Dining|Bakery & Ice Cream|Swensen's|Discount|Standard|MBAP
+183170572|02AUG2018|18:07:32|Dining|Beverage|Squeeze|Discount|Standard|USSD
+275234869|17AUG2018|14:30:40|Dining|Branded Chain|Chester's|Discount|Standard|MBAP
+159583081|17AUG2018|11:21:36|Dining|Beverage|Cafe Amazon|Discount|Standard|USSD
+214716952|19AUG2018|16:56:02|Dining|Beverage|D'Oro|Discount|Standard|USSD
+176942116|04AUG2018|18:58:42|Dining|Cafe / Restaurant Chain|MK restaurants|Discount|Standard|USSD
+183231505|23AUG2018|19:38:27|Dining|Bakery & Ice Cream|Swensen's|Discount|Standard|MBAP
+4138022|01AUG2018|16:10:18|Dining|Beverage|D'Oro|Discount|Standard|USSD
+226485155|28AUG2018|20:01:41|Dining|Cafe / Restaurant Chain|MK restaurants|Discount|Standard|USSD
+161033435|24AUG2018|17:04:58|Dining|Beverage|D'Oro|Discount|Standard|USSD
+167622252|12AUG2018|12:57:59|Dining|Cafe / Restaurant Chain|Coffee World|Discount|Standard|MBAP
+167622252|13AUG2018|13:17:29|Dining|Beverage|Mezzo|Free|Standard|USSD
+167622252|17AUG2018|13:26:49|Other|Department store / Community mall|BTS|Discount|Standard|USSD
+180595178|20AUG2018|13:34:00|Dining|Beverage|D'Oro|Free|Standard|USSD
+183539458|15AUG2018|11:24:13|Dining|Beverage|CAFFE MUAN CHON|Discount|Standard|USSD
+166449414|24AUG2018|19:09:00|Shopping|Department store / Community mall|Tops Market|Discount|Standard|USSD
+176825384|14AUG2018|18:51:57|Dining|Standalone|LAB NUA SARABURI|Free|Standard|USSD
+183817599|19AUG2018|12:16:21|Dining|Cafe / Restaurant Chain|MK restaurants|Discount|Standard|USSD
+180981320|13AUG2018|11:54:35|Dining|Branded Chain|Dunkin|Discount|Gold|USSD
+155627662|17AUG2018|13:14:15|Dining|Branded Chain|Dairy Queen|Discount|Standard|USSD
+164974265|05AUG2018|14:13:02|Dining|Beverage|D'Oro|Discount|Standard|USSD
+164974265|25AUG2018|8:35:27|Dining|Beverage|Cafe Amazon|Discount|Standard|USSD
+169944838|26AUG2018|18:48:56|Dining|Bakery & Ice Cream|Hokkaido|Discount|Standard|USSD
+184390314|01AUG2018|20:21:34|Dining|Branded Chain|Dairy Queen|Discount|Standard|USSD
+166060668|05AUG2018|10:46:00|Dining|Cafe / Restaurant Chain|Burger King|Discount|Standard|USSD
+169841194|04AUG2018|19:46:48|Shopping|Department store / Community mall|Tops Market|Discount|Platinum|USSD
+161364993|28AUG2018|15:56:26|Dining|Branded Chain|Potato Corner|Discount|Standard|USSD
+161364993|03AUG2018|17:12:02|Dining|Cafe / Restaurant Chain|Potato Corner|Discount|Standard|USSD
+171943644|06AUG2018|19:42:45|Dining|Beverage|Squeeze|Discount|Standard|USSD
+179208198|22AUG2018|15:08:00|Dining|Beverage|D'Oro|Discount|Standard|USSD
+179208198|14AUG2018|9:59:05|Dining|Beverage|D'Oro|Free|Platinum|MBAP
+165259781|18AUG2018|17:46:38|Shopping|Department store / Community mall|Tops Market|Discount|Platinum|USSD
+165259781|30AUG2018|12:34:39|Dining|Bakery & Ice Cream|Swensen's|Discount|Gold|MBAP
+172173428|11AUG2018|13:36:40|Dining|Cafe / Restaurant Chain|ZEN Restaurant|Discount|Standard|USSD
+229237395|10AUG2018|8:58:08|Other|Other|Susco|Discount|Platinum|USSD
+175324687|12AUG2018|19:46:24|Dining|Cafe / Restaurant Chain|MK restaurants|Discount|Standard|USSD
+155089936|11AUG2018|11:56:48|Other|Cafe / Restaurant Chain|Coffee World|Discount|Standard|MBAP
+155089936|03AUG2018|11:51:34|Dining|Beverage|Cafe Amazon|Discount|Standard|USSD
+185549344|25AUG2018|10:52:48|Dining|Cafe / Restaurant Chain|Burger King|Discount|Standard|USSD
+178004730|05AUG2018|14:19:56|Dining|Beverage|D'Oro|Discount|Standard|USSD
+172783135|12AUG2018|12:50:59|Dining|Beverage|Cafe Amazon|Discount|Standard|USSD
+167067673|25AUG2018|16:40:15|Dining|Cafe / Restaurant Chain|McDonald's|Discount|Standard|MBAP
+161325845|13AUG2018|18:11:39|Dining|Cafe / Restaurant Chain|MK restaurants|Discount|Standard|USSD
+260404049|31AUG2018|12:56:55|Dining|Cafe / Restaurant Chain|McDonald's|Discount|Standard|USSD
+153081638|03AUG2018|20:06:59|Dining|Bakery & Ice Cream|Swensen's|Discount|Standard|MBAP
+179299552|04AUG2018|21:07:26|Dining|Bakery & Ice Cream|Hokkaido|Discount|Standard|USSD
+185612055|05AUG2018|9:52:35|Dining|Beverage|Dean and Deluca|Free|Platinum|MBAP
+159161760|24AUG2018|14:38:42|Dining|Cafe / Restaurant Chain|Gindaco|Discount|Standard|USSD
+157666491|29AUG2018|19:42:47|Dining|Cafe / Restaurant Chain|On The Table|Discount|Standard|USSD
+167069194|02AUG2018|11:11:11|Hotel & Travel|Hotel & Resort / Tour Agent|SKOOTAR Discount 20%|Discount|Platinum|USSD
+167069194|06AUG2018|8:54:53|Hotel & Travel|Hotel & Resort / Tour Agent|SKOOTAR Discount 20%|Discount|Platinum|USSD
+167069194|06AUG2018|11:20:19|Hotel & Travel|Hotel & Resort / Tour Agent|SKOOTAR Discount 20%|Discount|Platinum|USSD
+183133673|26AUG2018|18:25:20|Dining|Cafe / Restaurant Chain|MK restaurants|Discount|Standard|USSD
+175533513|31AUG2018|20:56:10|Dining|Cafe / Restaurant Chain|Tummour|Discount|Standard|USSD
+183749262|26AUG2018|16:33:29|Dining|Cafe / Restaurant Chain|Subway|Discount|Standard|USSD
+182321944|06AUG2018|18:01:53|Dining|Beverage|D'Oro|Discount|Standard|USSD
+154493602|01AUG2018|10:15:59|Dining|Cafe / Restaurant Chain|Burger King|Discount|Standard|USSD
+183952964|08AUG2018|15:33:49|Dining|Cafe / Restaurant Chain|iberry|Free|Platinum|USSD
+177382929|04AUG2018|13:40:30|Dining|Bakery & Ice Cream|Baskin|Discount|Gold|USSD
+181261764|03AUG2018|17:19:07|Dining|Cafe / Restaurant Chain|MK restaurants|Discount|Standard|USSD
+170630639|02AUG2018|15:13:04|Other|Other|Skechers|Discount|Standard|USSD
+152922410|21AUG2018|3:51:14|Dining|Cafe / Restaurant Chain|Burger King|Discount|Standard|MBAP
+170205849|05AUG2018|12:02:42|Education & Sports|Education / Sports|SE-ED Book Center|Discount|Standard|USSD
+164512966|08AUG2018|12:51:40|Dining|Beverage|Dean and Deluca|Free|Platinum|USSD
+163884019|09AUG2018|20:28:46|Dining|Cafe / Restaurant Chain|MK restaurants|Discount|Standard|USSD
+158240218|24AUG2018|10:15:25|Dining|Cafe / Restaurant Chain|Burger King|Discount|Standard|USSD
+183956414|12AUG2018|13:07:22|Dining|Beverage|D'Oro|Discount|Standard|USSD
+229211313|09AUG2018|8:36:38|Dining|Standalone|TASSPUN BAKE SHOP|Discount|Standard|USSD
+180695760|12AUG2018|8:55:03|Dining|Beverage|Cafe Amazon|Discount|Standard|USSD
+159037508|17AUG2018|14:57:37|Dining|Branded Chain|Dairy Queen|Discount|Standard|USSD
+168767690|21AUG2018|20:49:41|Shopping|Department store / Community mall|Tops Market|Discount|Standard|USSD
+170065695|20AUG2018|13:24:09|Shopping|Department store / Community mall|Tops Market|Discount|Platinum|USSD
+170065695|01AUG2018|12:28:51|Dining|Beverage|D'Oro|Free|Platinum|USSD
+182330519|02AUG2018|9:43:31|Entertainment|Movie / Entertainment|Siam Part City|Discount|Standard|MBAP
+183943304|05AUG2018|12:07:47|Hotel & Travel|Hotel & Resort / Tour Agent|RUBBERLAND|Discount|Standard|USSD
+153291924|06AUG2018|12:32:45|Dining|Beverage|Mezzo|Discount|Standard|MBAP
+174342805|08AUG2018|19:54:08|Dining|Bakery & Ice Cream|Swensen's|Discount|Gold|MBAP
+215169164|09AUG2018|17:29:27|Entertainment|Movie / Entertainment|Major Cineplex|Discount|Standard|MBAP
+232571854|23AUG2018|13:46:45|Dining|Beverage|D'Oro|Free|Platinum|MBAP
+152538449|12AUG2018|13:21:07|Other|Internal reward|Kagonoya|Discount|Standard|USSD
+177405105|14AUG2018|12:32:22|Dining|Beverage|Pearly Tea|Discount|Standard|USSD
+184048347|26AUG2018|18:15:15|Entertainment|Movie / Entertainment|Major Cineplex|Discount|Standard|MBAP
+184048347|20AUG2018|18:17:30|Entertainment|Movie / Entertainment|Blu-O|Free|Platinum|USSD
+184048347|11AUG2018|15:59:47|Dining|Branded Chain|Dairy Queen|Discount|Standard|USSD
+184048347|14AUG2018|19:27:06|Dining|Cafe / Restaurant Chain|Texas Chicken|Discount|Standard|USSD
+177735717|01AUG2018|14:52:10|Dining|Beverage|D'Oro|Discount|Standard|USSD
+159624681|18AUG2018|13:12:24|Dining|Cafe / Restaurant Chain|MK restaurants|Discount|Standard|USSD
+249902572|19AUG2018|12:26:50|Dining|Cafe / Restaurant Chain|The Pizza Company|Discount|Standard|USSD
+249902572|19AUG2018|12:11:42|Dining|Beverage|Cafe Amazon|Discount|Standard|USSD
+249902572|18AUG2018|13:43:24|Online|Online Service & Delivery|Grab|Discount|Standard|MBAP
+159279747|17AUG2018|13:43:02|Dining|Cafe / Restaurant Chain|The Coffee Club|Discount|Platinum|USSD
+194377640|03AUG2018|17:08:51|Other|Cafe / Restaurant Chain|Coffee World|Discount|Standard|MBAP
+194377640|02AUG2018|9:58:27|Dining|Branded Chain|Dunkin|Discount|Gold|USSD
+181706878|12AUG2018|12:28:17|Dining|Cafe / Restaurant Chain|MK restaurants|Discount|Standard|USSD
+174768063|01AUG2018|20:05:02|Dining|Standalone|TAWANDANG GERMAN BREWERY|Discount|Standard|USSD
+166901061|27AUG2018|19:17:27|Dining|Cafe / Restaurant Chain|Swensen|Discount|Standard|MBAP
+189055250|22AUG2018|20:59:27|Dining|Cafe / Restaurant Chain|Swensen|Discount|Standard|MBAP
+162334977|24AUG2018|17:38:40|Beauty & Healthy|Beauty / Salon / Optic|ËÍáÇè¹|Discount|Standard|USSD
+152248187|22AUG2018|9:40:44|Other|Other|Susco|Free|Standard|USSD
+152248187|23AUG2018|9:40:32|Other|Other|Susco|Discount|Platinum|USSD
+183275769|15AUG2018|17:43:27|Dining|Beverage|Squeeze|Discount|Standard|USSD
+155136541|29AUG2018|19:16:23|Dining|Cafe / Restaurant Chain|Swensen|Discount|Standard|MBAP
+180215978|07AUG2018|16:13:06|Dining|Cafe / Restaurant Chain|Potato Corner|Discount|Standard|USSD
+153314783|11AUG2018|17:57:33|Entertainment|Movie / Entertainment|Major Cineplex|Discount|Standard|MBAP
+153314783|23AUG2018|19:16:29|Entertainment|Movie / Entertainment|Major Cineplex|Discount|Standard|MBAP
+180951846|27AUG2018|18:54:38|Dining|Bakery & Ice Cream|Baskin|Discount|Gold|USSD
+151688099|17AUG2018|19:28:34|Entertainment|Movie / Entertainment|SF Cinema|Discount|Standard|USSD
+245696614|05AUG2018|8:41:39|Dining|Beverage|Cafe Amazon|Discount|Standard|USSD
+157356393|11AUG2018|13:04:00|Dining|Beverage|D'Oro|Discount|Standard|USSD
+187692143|27AUG2018|16:07:04|Dining|Beverage|Mezzo|Discount|Standard|USSD
+187692143|13AUG2018|16:12:33|Dining|Beverage|D'Oro|Free|Platinum|USSD
+159194275|04AUG2018|16:52:40|Shopping|Department store / Community mall|Tops Market|Discount|Standard|USSD
+157390659|11AUG2018|7:21:07|Dining|Beverage|Cafe Amazon|Discount|Standard|USSD
+183788067|01AUG2018|12:30:36|Dining|Cafe / Restaurant Chain|MK restaurants|Discount|Standard|USSD
+182791708|22AUG2018|13:48:06|Dining|Cafe / Restaurant Chain|MK restaurants|Discount|Standard|USSD
+167359517|19AUG2018|7:56:41|Dining|Beverage|Cafe Amazon|Discount|Standard|USSD
+258427702|17AUG2018|22:38:53|Dining|Cafe / Restaurant Chain|Swensen|Discount|Standard|MBAP
+258427702|17AUG2018|22:38:17|Dining|Bakery & Ice Cream|Swensen's|Discount|Standard|MBAP
+180371559|04AUG2018|18:50:59|Dining|Cafe / Restaurant Chain|MK restaurants|Discount|Standard|USSD
+152657332|24AUG2018|14:12:16|Dining|Cafe / Restaurant Chain|Tummour|Discount|Standard|USSD
+176672926|15AUG2018|19:57:20|Dining|Standalone|MINI GOURMET BY PAESO|Free|Standard|USSD
+159562183|12AUG2018|11:12:28|Dining|Branded Chain|Dairy Queen|Discount|Standard|USSD
+152406952|15AUG2018|8:56:06|Other|Other|Susco|Free|Standard|USSD
+180534314|11AUG2018|19:51:09|Dining|Standalone|SOD AROI|Discount|Standard|USSD
+180534314|09AUG2018|18:14:13|Dining|Standalone|Fill me fresh|Free|Standard|USSD
+180534314|13AUG2018|16:59:57|Dining|Standalone|4 Fingers Crispy Chicken|Discount|Standard|USSD
