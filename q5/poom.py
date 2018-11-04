@@ -1,3 +1,6 @@
+# Unfinish 
+# Look at arm.py
+
 import sys
 import datetime
 import operator
@@ -48,9 +51,6 @@ class Customer:
 # def filterTimePeriod(formTime, toDate):
 #   def filter
 
-for i in range(1441):
-  timetable.append([0,61,-1])
-
 # Read Input
 lines = sys.stdin.read().split('\n')
 lineCount = 0
@@ -58,37 +58,40 @@ for line in lines:
   if (len(line.split('|')) >= 9 and line != "" and lineCount > 0):
     customer = Customer(line)
     customers.append(customer)
-    value = customer.time.hour * 60 + customer.time.minute
-    # if value not in timetable:
-    #   timetable[value] = [0,0,0]
-    timetable[value][0] += 1
-    if timetable[value][1] > customer.time.second:
-      timetable[value][1] = customer.time.second
-    if timetable[value][2] < customer.time.second:
-      timetable[value][2] = customer.time.second
   lineCount += 1
 
-for i in range(1, len(timetable)):
-  # print(i)
-  timetable[i][0] = timetable[i][0] + timetable[i - 1][0]  
-
-maxValue = timetable[20][0]
-for i in range(21, len(timetable)):
-  if timetable[i][0]-timetable[i-20-1][0] > maxValue:
-    maxValue = timetable[i][0]-timetable[i-20-1][0]
-
-maxCell = []
-for i in range(21, len(timetable)):
-  if timetable[i][0]-timetable[i-20-1][0] == maxValue:
-    maxCell.append(i)
-
-def toTime(timeValue):
-  hour = 0
-  while timeValue >= 60:
-    hour += 1
-    timeValue /= 60
-  return str(hour) + ":" + str("%.0f" % timeValue)
+timetable = []
+customers.sort()
+for c in customers:
   
-for c in maxCell:
-  print(str(timetable[c - 20][1]) + " "  + str(timetable[c][2]))
-  print(toTime(c - 200) + " "  + toTime(c))
+
+
+# for i in range(1441):
+#   timetable.append([0,61,-1])
+
+
+# for i in range(1, len(timetable)):
+#   # print(i)
+#   timetable[i][0] = timetable[i][0] + timetable[i - 1][0]  
+
+# maxValue = timetable[18][0]
+# for i in range(19, len(timetable)):
+#   if timetable[i][0]-timetable[i-18-1][0] > maxValue:
+#     maxValue = timetable[i][0]-timetable[i-18-1][0]
+
+# maxCell = []
+# for i in range(19, len(timetable)):
+#   if timetable[i][0]-timetable[i-18-1][0] == maxValue:
+#     maxCell.append(i)
+
+# def toTime(timeValue):
+#   hour = 0
+#   while timeValue >= 60:
+#     hour += 1
+#     timeValue /= 60
+#   return str(hour) + ":" + str("%.0f" % timeValue)
+  
+# # print (maxValue)
+# for c in maxCell:
+#   print(str(timetable[c - 18][1]) + " "  + str(timetable[c][2]))
+#   print(toTime(c - 18) + " "  + toTime(c))
