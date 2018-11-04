@@ -4,10 +4,7 @@ import operator
 
 # Variables
 customers = []
-companys = {}
-campaigns = {}
-campaignsUser = {}
-average = {}
+timetable = []
 
 # Class
 class Customer:
@@ -23,6 +20,8 @@ class Customer:
     self.channel = sep[8].strip()
   def __str__(self):
     return "{0}|{1}|{2}|{3}|{4}|{5}|{6}|{7}".format(self.id, self.time, self.cat, self.subcat, self.partner, self.type, self.campaign, self.channel)
+  def __lt__(self, other):
+    return self.time < other.time
 
 # Functions and Filters
 # def addToDict(dict, key, value):
@@ -46,6 +45,11 @@ class Customer:
 #     return (formDate <= date and formDate >= toDate)
 #   return filter
 
+# def filterTimePeriod(formTime, toDate):
+#   def filter
+
+for i in range(1441):
+  timetable.append([0,61,-1])
 
 # Read Input
 lines = sys.stdin.read().split('\n')
@@ -53,23 +57,38 @@ lineCount = 0
 for line in lines:
   if (len(line.split('|')) >= 9 and line != "" and lineCount > 0):
     customer = Customer(line)
-    # customers.append(customer)
-    if customer.campaign not in  campaigns:
-      campaigns[customer.campaign] = []
-      campaigns[customer.campaign].append(0)
-      campaigns[customer.campaign].append(0)
-      campaigns[customer.campaign].append([])
-    campaigns[customer.campaign][0] += 1
-    if customer.id not in campaigns[customer.campaign][2]:
-      campaigns[customer.campaign][1] += 1
-      campaigns[customer.campaign][2].append(customer.id)
-      
-
+    customers.append(customer)
+    value = customer.time.hour * 60 + customer.time.minute
+    # if value not in timetable:
+    #   timetable[value] = [0,0,0]
+    timetable[value][0] += 1
+    if timetable[value][1] > customer.time.second:
+      timetable[value][1] = customer.time.second
+    if timetable[value][2] < customer.time.second:
+      timetable[value][2] = customer.time.second
   lineCount += 1
 
-# print(campaigns)
-campaigns = sorted(campaigns.keys)
-for campaignName in campaigns:
-  campaign = campaigns[campaignName]
-  avg = campaign[0] / len(campaign[2])
-  print(campaignName + " " + str("%.2f" % avg))
+for i in range(1, len(timetable)):
+  # print(i)
+  timetable[i][0] = timetable[i][0] + timetable[i - 1][0]  
+
+maxValue = timetable[20][0]
+for i in range(21, len(timetable)):
+  if timetable[i][0]-timetable[i-20-1][0] > maxValue:
+    maxValue = timetable[i][0]-timetable[i-20-1][0]
+
+maxCell = []
+for i in range(21, len(timetable)):
+  if timetable[i][0]-timetable[i-20-1][0] == maxValue:
+    maxCell.append(i)
+
+def toTime(timeValue):
+  hour = 0
+  while timeValue >= 60:
+    hour += 1
+    timeValue /= 60
+  return str(hour) + ":" + str("%.0f" % timeValue)
+  
+for c in maxCell:
+  print(str(timetable[c - 20][1]) + " "  + str(timetable[c][2]))
+  print(toTime(c - 200) + " "  + toTime(c))
