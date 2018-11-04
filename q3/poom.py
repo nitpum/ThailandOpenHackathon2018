@@ -29,8 +29,21 @@ def addToDict(dict, key, value):
   else:
     dict[key] += value
 
-def filterMax
+def filterObjectMax(max, i):
+  def filter(item):
+    return item[i] == max
+  return filter
 
+def filterCustomerPeriod(formDate, toDate):
+  def filter(customer):
+    return (formDate <= customer.time and customer.time >= toDate)
+  return filter
+
+def filterPeriod(formDate, toDate):
+  def filter(date):
+    return (formDate <= date and formDate >= toDate)
+  return filter
+  
 # Read Input
 lines = sys.stdin.read().split('\n')
 lineCount = 0
