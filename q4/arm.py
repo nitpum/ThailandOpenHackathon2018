@@ -43,22 +43,20 @@ while True:
 
 n = 0
 k = 0
-stats = {}
 
-# customers = list(sorted(customers, key=operator.attrgetter('time')))
+customers = list(sorted(customers, key=operator.attrgetter('id')))
+customers = list(sorted(customers, key=operator.attrgetter('time')))
+
+state = 0
 
 for customer in customers:
-  if customer.id not in stats:
-    stats[customer.id] = 0
-  
-  # if 1 => amazon
-  if stats[customer.id] == 1:
+  if state == 1:
     if customer.cat == 'Dining':
       k += 1
     n += 1
-    stats[customer.id] = 0
-  else:
-    if customer.partner == 'Cafe Amazon':
-      stats[customer.id] = 1
+    state = 0
+
+  if customer.partner == 'Cafe Amazon':
+    state = 1
 
 print("{0:.2f}".format(k/n))
