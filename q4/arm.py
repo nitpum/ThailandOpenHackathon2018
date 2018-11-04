@@ -41,22 +41,23 @@ while True:
   else:
     break
 
-n = 0
 k = 0
+n = 0
 
-customers = list(sorted(customers, key=operator.attrgetter('id')))
 customers = list(sorted(customers, key=operator.attrgetter('time')))
+customers = list(sorted(customers, key=operator.attrgetter('id')))
 
-state = 0
+state = -1
 
 for customer in customers:
-  if state == 1:
+  # print(customer.id)
+  if state == customer.id:
     if customer.cat == 'Dining':
       k += 1
     n += 1
-    state = 0
+    state = -1
 
   if customer.partner == 'Cafe Amazon':
-    state = 1
-
+    state = customer.id
+# print(k,n)
 print("{0:.2f}".format(k/n))
