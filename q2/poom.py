@@ -44,23 +44,13 @@ for line in lines:
 # DO !!!
 
 sorted_channels = sorted(channels.items(), key=operator.itemgetter(1), reverse=True)
-for c in sorted_channels:
-  print(c)
 
 max = sorted_channels[0][1]
 
 def filterMax(item):
   return item[1] == max
-sorted_abc_channels = list(filter(filterMax, sorted_channels))
-print("===============")
-for c in sorted_abc_channels:
+  
+max_in_channels = list(filter(filterMax, sorted_channels))
+max_in_channels.sort(key=operator.itemgetter(0))
+for c in max_in_channels:
   print(c)
-# sorted_channels = sorted(channels.items(), key=lambda kv: kv[1], reverse =False)
-# sorted_a = sorted_channels.sort(key=operator.itemgetter(0))
-# # for c in range(0, 5):
-# #   channel = sorted_channels[len(sorted_channels) - 1 - c]
-# #   sorted_a[channel[0]] = channel[1]
-# #   print(channel[0] + " " + str(channel[1]))
-
-# for c in range(5):
-#   print(sorted_a[c])
