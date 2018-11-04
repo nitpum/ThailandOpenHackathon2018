@@ -1,12 +1,11 @@
 import sys
+import operator
 
 class customer:
   def __init__(self, line):
     self.customer_id, self.redemp_dt, self.redemp_tm, self.cat_desc, self.sub_cat_desc, self.prntr_desc, self.redeem_type, self.campaign, self.channel = line.split('|')    
   def __str__(self):
-    return self.customer_id + ""
-# class timestamp:
-#   def __init__(self, date, time):
+    return self.customer_id
 
 customers = []
 
@@ -19,8 +18,16 @@ for line in lines:
     customers.append(customer(line))
   lineCount += 1
 
-# print(customers)
+company = {}
 
 for c in customers:
-  if (c.customer_id == '150428059'):
-    print(c.redeem_type)
+  if c.prntr_desc in company:
+    pass
+  else:
+    company[c.prntr_desc] = 0
+  company[c.prntr_desc] += 1
+
+i = 0
+sorted_company = sorted(company.items(), key=operator.itemgetter(1))
+for c in range(0, 5):
+  print (sorted_company[len(sorted_company) - 1 - c][0] + " " + str(sorted_company[len(sorted_company) - 1 - c][1]))
