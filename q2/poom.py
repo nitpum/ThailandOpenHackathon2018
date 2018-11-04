@@ -1,9 +1,6 @@
 import sys
 import datetime
 
-class Date:
-  def __inti__self
-
 class Customer:
   def __init__(self, str):
     sp = str.split('|')
@@ -19,6 +16,15 @@ class Customer:
   def __str__(self):
     return "{0}|{1}|{2}|{3}|{4}|{5}|{6}|{7}".format(self.id, self.time, self.cat, self.subcat, self.partner, self.type, self.campaign, self.channel)
 
+# List
 customers = []
 
-# def customers_descending():
+
+# Read Input
+lines = sys.stdin.read().split('\n')
+lineCount = 0
+for line in lines:
+  if (len(line.split('|')) >= 9 and line != "" and lineCount > 0):
+    customers.append(Customer(line))
+  lineCount += 1
+
