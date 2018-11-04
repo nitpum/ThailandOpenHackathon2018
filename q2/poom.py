@@ -1,6 +1,9 @@
 import sys
 import datetime
 
+class Date:
+  def __inti__self
+
 class Customer:
   def __init__(self, str):
     sp = str.split('|')
@@ -14,4 +17,8 @@ class Customer:
     self.campaign = sep[7]
     self.channel = sep[8]
   def __str__(self):
-    return "{0}|{1}|{2}|{3}|{4}|{5}|{6}|{7}|{8}".format(self.id, )
+    return "{0}|{1}|{2}|{3}|{4}|{5}|{6}|{7}".format(self.id, self.time, self.cat, self.subcat, self.partner, self.type, self.campaign, self.channel)
+
+customers = []
+
+# def customers_descending():

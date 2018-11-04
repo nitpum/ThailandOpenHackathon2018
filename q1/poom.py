@@ -28,6 +28,9 @@ for c in customers:
   company[c.prntr_desc] += 1
 
 i = 0
-sorted_company = sorted(company.items(), key=operator.itemgetter(1))
+# ASc
+# sorted_company = sorted(company.items(), key=lambda kv: kv[1])
+# DESC
+sorted_company = sorted(company.items(), key=lambda kv: kv[1], reverse =True)
 for c in range(0, 5):
   print (sorted_company[len(sorted_company) - 1 - c][0] + " " + str(sorted_company[len(sorted_company) - 1 - c][1]))
