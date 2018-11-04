@@ -62,7 +62,14 @@ for campaign in campaigns:
     
     campaignStats[campaign] += campaigns[campaign][customer]
 
+printArr = []
+
 for campaign in campaignStats:
   avg = campaignStats[campaign] / len(campaigns[campaign])
-  print(campaign + " " + str(round(avg,2)))
+  printArr.append(campaign + " " + str(round(avg,2)))
+
+printArr.sort()
+
+for p in printArr:
+  print(p)
   
