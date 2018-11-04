@@ -16,3 +16,5 @@ import re # Use for regex
 
 m = re.match('A', 'ABC')
 print(m.group(0))
+
+print('Art: %5d, Price per Unit: %8.2f' % (435, 59.058))
