@@ -1,27 +1,30 @@
 import sys
 import datetime
 
+# Class
 class Customer:
-  month = {
-    ""
-  }
   def __init__(self, str):
-    sep = str.strip().split('|')
+    sp = str.split('|')
+    sep = str.split('|')
     self.id = sep[0]
-    self.timestamp = datetime.datetime.strptime(sep[1] + "|" + sep[2], '%d%b%Y|%H:%M:%S')
+    self.time = datetime.datetime.strptime(sep[1] + "|" + sep[2], '%d%b%Y|%H:%M:%S')
     self.cat = sep[3]
     self.subcat = sep[4]
     self.partner = sep[5]
     self.type = sep[6]
     self.campaign = sep[7]
     self.channel = sep[8]
+  def __str__(self):
+    return "{0}|{1}|{2}|{3}|{4}|{5}|{6}|{7}".format(self.id, self.time, self.cat, self.subcat, self.partner, self.type, self.campaign, self.channel)
 
+# Variable
 customers = []
 count={}
 lis=[]
 line = sys.stdin.readline()
 i = 0
 max=0
+
 """ read data """
 while True:
   """ read line """
@@ -35,6 +38,7 @@ while True:
     i+=1
   else:
     break
+# Counting find max
 for key in count:
     if count[key]>max :
         max=count[key]
@@ -43,5 +47,6 @@ for key in count:
     elif count[key]==max :
         lis.append(key)
 lis.sort(reverse=True)
+# Print result
 for str in lis:
     print(str)

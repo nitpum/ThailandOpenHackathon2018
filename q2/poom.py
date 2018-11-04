@@ -2,10 +2,7 @@ import sys
 import datetime
 import operator
 
-# List
-customers = []
-companys = {}
-
+# Class
 class Customer:
   def __init__(self, str):
     sp = str.split('|')
@@ -21,15 +18,24 @@ class Customer:
   def __str__(self):
     return "{0}|{1}|{2}|{3}|{4}|{5}|{6}|{7}".format(self.id, self.time, self.cat, self.subcat, self.partner, self.type, self.campaign, self.channel)
 
+# Variable
+customers = []
+companys = {}
+
+# Functions and filter
 def addToDict(dict, key, value):
   if key not in dict:
     dict[key] = value
   else:
     dict[key] += value
 
+def filterMax(item):
+  def filter(max):
+    return item[1] == max
+  return filter
+
 channels = {}
 subs = {}
-
 
 # Read Input
 lines = sys.stdin.read().split('\n')
@@ -41,16 +47,13 @@ for line in lines:
     addToDict(channels, customer.channel + " " + customer.subcat, 1)
   lineCount += 1
 
-# DO !!!
-
-sorted_channels = sorted(channels.items(), key=operator.itemgetter(1), reverse=True)
-
-max = sorted_channels[0][1]
-
-def filterMax(item):
-  return item[1] == max
-  
-max_in_channels = list(filter(filterMax, sorted_channels))
-max_in_channels.sort(key=operator.itemgetter(0))
-for c in max_in_channels:
-  print(c)
+# Sorted channels
+channels = sorted(channels.items(), key=operator.itemgetter(1), reverse=True)
+# Get max value
+max = channels[0][1]
+# Get all channel that aresame value as max
+channels = list(filter(filterMax, channels))
+channels.sort(key=operator.itemgetter(0))
+# Print result
+for c in channels:
+  print(c[0])

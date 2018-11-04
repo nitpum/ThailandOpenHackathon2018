@@ -2,10 +2,8 @@ import sys
 import datetime
 import operator
 
+# Class
 class Customer:
-  month = {
-    ""
-  }
   def __init__(self, str):
     sep = str.strip().split('|')
     self.id = sep[0]
@@ -19,6 +17,7 @@ class Customer:
   def __str__(self):
     return "{0}|{1}|{2}|{3}|{4}|{5}|{6}|{7}".format(self.id, self.time, self.cat, self.subcat, self.partner, self.type, self.campaign, self.channel)
 
+# Variables
 customers = []
 
 # Functions
@@ -42,6 +41,7 @@ while True:
 
 couple = {}
 
+# Combine channel and sub catagory and couting
 for customer in customers:
   pair = customer.channel + " " + customer.subcat
   if pair in couple:
@@ -55,9 +55,9 @@ max = rank[0][1]
 
 def filterMax(item):
   return item[1] == max
-
+# Get all channel that aresame value as max
 maxRank = list(filter(filterMax, rank))
 maxRank.sort(key=operator.itemgetter(0))
-
+# Print result
 for item in maxRank:
   print(item[0])
