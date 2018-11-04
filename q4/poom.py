@@ -23,6 +23,8 @@ class Customer:
     self.channel = sep[8].strip()
   def __str__(self):
     return "{0}|{1}|{2}|{3}|{4}|{5}|{6}|{7}".format(self.id, self.time, self.cat, self.subcat, self.partner, self.type, self.campaign, self.channel)
+  def __lt__(self, other):
+    return self.time < other.time
 
 # Functions and Filters
 # def addToDict(dict, key, value):
@@ -53,22 +55,27 @@ lineCount = 0
 for line in lines:
   if (len(line.split('|')) >= 9 and line != "" and lineCount > 0):
     customer = Customer(line)
-    # customers.append(customer)
-    if customer.campaign not in  campaigns:
-      campaigns[customer.campaign] = []
-      campaigns[customer.campaign].append(0)
-      campaigns[customer.campaign].append(0)
-      campaigns[customer.campaign].append([])
-    campaigns[customer.campaign][0] += 1
-    if customer.id not in campaigns[customer.campaign][2]:
-      campaigns[customer.campaign][1] += 1
-      campaigns[customer.campaign][2].append(customer.id)
-      
-
+    customers.append(customer)
   lineCount += 1
 
-campaigns.sorted(campaigns)
-for campaignName in campaigns:
-  campaign = campaigns[campaignName]
-  avg = campaign[0] / len(campaign[2])
-  print(campaignName + " " + str("%.2f" % avg))
+n = 0
+k = 0
+
+
+def amazonFilter(customer):
+  return (customer.partner == "Cafe Amazon")
+
+customers.sort()
+customers.sort(key=operator.attrgetter('id'))
+
+for i in range(len(customers) - 1):
+  if customers[i].id == customers[i + 1].id:
+    print(customers[i])
+    if customers[i].partner == "Cafe Amazon":
+      n += 1
+    if customers[i].partner == "Cafe Amazon" and customers[i + 1].cat == "Dining":
+      k += 1
+
+print(str(k )+ " " + str(n))
+p =  k / n
+print(p)
